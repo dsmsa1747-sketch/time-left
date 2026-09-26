@@ -1,0 +1,36 @@
+{
+ "name": "Time Left — what smoking costs you",
+ "short_name": "Time Left",
+ "description": "See what smoking has already cost you — in money and in time. One cigarette takes 17 minutes. Free, no sign-up, works offline.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#141311",
+ "theme_color": "#141311",
+ "categories": [
+  "health",
+  "lifestyle",
+  "utilities"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
