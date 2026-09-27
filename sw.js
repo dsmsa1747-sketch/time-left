@@ -1,4 +1,4 @@
-const CACHE="timeleft-v15";
+const CACHE="timeleft-v16";
 const ASSETS=["./","index.html","privacy.html","terms.html","manifest.webmanifest","icon-192.png","icon-512.png","apple-touch-icon.png","og.png","v/surgery.webm","v/smoke.webm","v/tray.webm","v/dawn.webm","v/lungs.webm","v/field.webm"];
 self.addEventListener("install",e=>{
   e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting()));
@@ -15,6 +15,6 @@ self.addEventListener("fetch",e=>{
         caches.open(CACHE).then(c=>c.put(e.request,copy));
       }
       return res;
-    }).catch(()=>caches.match("/index.html")))
+    }).catch(()=>caches.match("index.html")))
   );
 });
