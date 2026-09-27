@@ -3,9 +3,13 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="description" content="See what smoking has already cost you — and what your body wins back, hour by hour. Free, no sign-up, works offline.">
+<title>What Smoking Costs You — Minutes, Money, Years | Time Left</title>
+<meta name="description" content="One cigarette takes about 17 minutes off your life. Work out what smoking has already cost you in money and in time, see the WHO recovery timeline hour by hour, and find your country's quitline. Free, no sign-up, works offline.">
 <meta name="theme-color" content="#F6F3EC">
 <link rel="canonical" href="https://dsmsa1747-sketch.github.io/time-left/">
+<link rel="alternate" hreflang="en" href="https://dsmsa1747-sketch.github.io/time-left/?lang=en">
+<link rel="alternate" hreflang="ko" href="https://dsmsa1747-sketch.github.io/time-left/?lang=ko">
+<link rel="alternate" hreflang="x-default" href="https://dsmsa1747-sketch.github.io/time-left/">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="favicon-32.png" sizes="32x32">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -14,15 +18,37 @@
 <meta name="apple-mobile-web-app-title" content="Time Left">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Time Left">
-<meta property="og:title" content="Time is not money. Time is your life.">
-<meta property="og:description" content="See what smoking has already cost you — and what your body wins back, hour by hour. Free, no sign-up, works offline.">
+<meta property="og:title" content="One cigarette. Seventeen minutes.">
+<meta property="og:description" content="One cigarette takes about 17 minutes off your life. Work out what smoking has already cost you in money and in time, see the WHO recovery timeline hour by hour, and find your country's quitline. Free, no sign-up, works offline.">
 <meta property="og:image" content="https://dsmsa1747-sketch.github.io/time-left/og.png">
 <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
 <meta property="og:url" content="https://dsmsa1747-sketch.github.io/time-left/">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Time is not money. Time is your life.">
-<meta name="twitter:description" content="See what smoking has already cost you — and what your body wins back, hour by hour. Free, no sign-up, works offline.">
+<meta name="twitter:title" content="One cigarette. Seventeen minutes.">
+<meta name="twitter:description" content="One cigarette takes about 17 minutes off your life. Work out what smoking has already cost you in money and in time, see the WHO recovery timeline hour by hour, and find your country's quitline. Free, no sign-up, works offline.">
 <meta name="twitter:image" content="https://dsmsa1747-sketch.github.io/time-left/og.png">
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[
+{"@type":"WebApplication","@id":"https://dsmsa1747-sketch.github.io/time-left/#app","name":"Time Left",
+ "url":"https://dsmsa1747-sketch.github.io/time-left/","applicationCategory":"HealthApplication",
+ "operatingSystem":"Any (web browser)","browserRequirements":"Requires JavaScript",
+ "inLanguage":["en","ko"],
+ "description":"A free stop-smoking tool that shows what smoking has cost you in money and in time, tracks the WHO recovery timeline after your last cigarette, and lists national quitlines for 56 countries.",
+ "offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},
+ "isAccessibleForFree":true,
+ "featureList":["Cigarette cost calculator","Life-minutes lost per cigarette","WHO recovery timeline","Quitlines for 56 countries","Craving timer","Works offline"]},
+{"@type":"FAQPage","@id":"https://dsmsa1747-sketch.github.io/time-left/#faq","mainEntity":[
+ {"@type":"Question","name":"How many minutes does one cigarette take off your life?",
+  "acceptedAnswer":{"@type":"Answer","text":"About 17 minutes on average for men and 22 for women, according to a 2024 University College London analysis. It is a population average, not a prediction about any one person."}},
+ {"@type":"Question","name":"How much money does smoking a pack a day cost in a year?",
+  "acceptedAnswer":{"@type":"Answer","text":"It depends on where you live. At a pack price of about 8 US dollars that is roughly 2,900 dollars a year; in Australia it is several times that. Time Left works it out in your own currency using real local pack prices."}},
+ {"@type":"Question","name":"What happens to your body after you quit smoking?",
+  "acceptedAnswer":{"@type":"Answer","text":"The World Health Organization timeline starts within 20 minutes, when heart rate and blood pressure drop. Carbon monoxide in the blood returns to normal within 12 hours, circulation and lung function improve over weeks to months, and after 10 years the risk of lung cancer is about half that of someone who kept smoking. Existing scarring does not reverse, but the damage stops adding up."}},
+ {"@type":"Question","name":"Is Time Left free, and does it store my data?",
+  "acceptedAnswer":{"@type":"Answer","text":"It is free with no sign-up. Everything you enter stays in your own browser using local storage. There is no server and no account, so nothing you type is sent anywhere."}}]}
+]}
+</script>
 <style>html{background:#F6F3EC}</style>
 </head>
 <body>
@@ -1219,8 +1245,29 @@ function toast(m){var e=$("toast");e.textContent=m;e.classList.add("show");clear
 function flash(x){var e=$("flash");e.textContent=x;e.classList.remove("go");void e.offsetWidth;e.classList.add("go");}
 
 /* ── 언어 ── */
+var SEO = {
+  en:{ t:"What Smoking Costs You \u2014 Minutes, Money, Years | Time Left",
+       d:"One cigarette takes about 17 minutes off your life. Work out what smoking has already cost you in money and in time, see the WHO recovery timeline hour by hour, and find your country's quitline. Free, no sign-up, works offline." },
+  ko:{ t:"\ub2f4\ubc30 \ud55c \uac1c\ube44\uc5d0 17\ubd84 \u2014 \uc9c0\uae08\uae4c\uc9c0 \uc5bc\ub9c8\ub97c \uc783\uc5c8\ub098 | \ub0a8\uc740 \uc2dc\uac04",
+       d:"\ub2f4\ubc30 \ud55c \uac1c\ube44\uac00 \uc218\uba85 \uc57d 17\ubd84\uc744 \uac00\uc838\uac11\ub2c8\ub2e4. \ud761\uc5f0\uc73c\ub85c \uc9c0\uae08\uae4c\uc9c0 \uce58\ub978 \ub3c8\uacfc \uc2dc\uac04\uc744 \uacc4\uc0b0\ud558\uace0, \uae08\uc5f0 \ud6c4 \ubab8\uc774 \ud68c\ubcf5\ud558\ub294 WHO \ud0c0\uc784\ub77c\uc778\uacfc 56\uac1c\uad6d \uae08\uc5f0\uc0c1\ub2f4\uc804\ud654\ub97c \ud655\uc778\ud558\uc138\uc694. \ubb34\ub8cc\u00b7\uac00\uc785 \uc5c6\uc74c\u00b7\uc624\ud504\ub77c\uc778 \uc791\ub3d9." }
+};
+function applySeo(){
+  try{
+    var x = SEO[S.lang] || SEO.en;
+    document.title = x.t;
+    var m = document.querySelector('meta[name="description"]');
+    if(m) m.setAttribute("content", x.d);
+    var u = new URL(location.href);
+    if(u.searchParams.get("lang") !== S.lang){
+      u.searchParams.set("lang", S.lang);
+      history.replaceState(null, "", u.pathname + u.search + u.hash);
+    }
+  }catch(e){}
+}
+
 function applyLang(){
   document.documentElement.lang = S.lang;
+  applySeo();
   $("langEN").setAttribute("aria-pressed",S.lang==="en"?"true":"false");
   $("langKO").setAttribute("aria-pressed",S.lang==="ko"?"true":"false");
   var set={appName:"app",l_clock:"clock",u_y:"y",u_d:"d",l_past:"past",l_pastM:"pastM",l_win:"win",
@@ -2106,6 +2153,9 @@ function buildShop(){
   });
 }
 
+var qs=null;
+try{ qs=new URLSearchParams(location.search).get("lang"); }catch(e){}
+
 var fresh=true;
 try{ fresh = !localStorage.getItem(KEY); }catch(e){}
 if(fresh){
@@ -2113,6 +2163,8 @@ if(fresh){
   try{ nv=(navigator.language||"en").toLowerCase(); }catch(e){}
   if(nv.indexOf("ko")===0){S.lang="ko";S.cur="KRW";S.pack=4500;S.home="KR";}
 }
+/* ?lang= 은 신규·재방문 모두에서 언어를 결정한다 (hreflang 링크가 실제로 동작하도록) */
+if(qs==="ko"||qs==="en") S.lang=qs;
 if(!S.home) S.home=detectCountry();
 document.body.setAttribute("data-mode",S.mode||"quit");
 setMode(S.mode||"quit");
