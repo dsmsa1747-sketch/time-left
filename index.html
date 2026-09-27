@@ -527,6 +527,7 @@
   @keyframes fl{0%{opacity:0;transform:translate(-50%,12px)}16%{opacity:1;transform:translate(-50%,0)}100%{opacity:0;transform:translate(-50%,-46px)}}
 
   .legal{font-size:11px; color:var(--text3); margin:10px 0 0}
+  .legal{line-height:2.1}
   .legal a{color:var(--text2); text-decoration:none; border-bottom:1px solid var(--edge2)}
   .legal a:hover{color:var(--text)}
   footer{font-size:11px; color:var(--text3); line-height:1.95; padding-top:26px; margin-top:44px; border-top:1px solid var(--edge)}
@@ -835,7 +836,7 @@
   </div>
 
   <footer id="foot">—</footer>
-  <p class="legal"><a href="privacy.html" id="lk_priv">Privacy</a> · <a href="terms.html" id="lk_terms">Terms</a></p>
+  <p class="legal"><a href="about.html" id="lk_about">About</a> · <a href="timeline.html" id="lk_tl">Recovery timeline</a> · <a href="prices.html" id="lk_pr">Prices worldwide</a> · <a href="quitlines.html" id="lk_ql">Quitlines</a><br><a href="privacy.html" id="lk_priv">Privacy</a> · <a href="terms.html" id="lk_terms">Terms</a></p>
 </div>
 
 <div class="modal" id="shareModal" role="dialog" aria-modal="true">
@@ -1032,7 +1033,7 @@ var T={
   adB:"Advertisement", adBd:"Ads keep this app free.",
   adC:"Advertisement", adCd:"Ads keep this app free.",
   adD:"Advertisement", adDd:"Ads keep this app free.",
-  lkPriv:"Privacy", lkTerms:"Terms",
+  lkPriv:"Privacy", lkTerms:"Terms", lkAbout:"About", lkTl:"Recovery timeline", lkPr:"Prices worldwide", lkQl:"Quitlines",
   foot:"<b>Time Left</b> — prototype<br>Life-minutes UCL 2024 · Life expectancy Statistics Korea 2024 life table<br>Warning images Korea MOHW 5th round · Prices public sources 2026<br>Everything is stored in this browser only",
   mins:"{n} min", hours:"{n} h", days:"{n} d", months:"{n} mo", years:"{n} yr",
   noteHeat:"No credible study puts a per-stick life cost on heated tobacco, so it's left out of the clock. <b>That does not mean it's safe</b> — the pack warning reads “Nicotine addiction, carcinogen exposure”.",
@@ -1140,7 +1141,7 @@ var T={
   adB:"광고", adBd:"광고 덕분에 이 앱은 무료입니다.",
   adC:"광고", adCd:"광고 덕분에 이 앱은 무료입니다.",
   adD:"광고", adDd:"광고 덕분에 이 앱은 무료입니다.",
-  lkPriv:"개인정보처리방침", lkTerms:"이용약관",
+  lkPriv:"개인정보처리방침", lkTerms:"이용약관", lkAbout:"소개", lkTl:"회복 타임라인", lkPr:"나라별 담뱃값", lkQl:"금연상담전화",
   foot:"<b>남은 시간</b> — 프로토타입<br>수명 UCL 2024 · 기대수명 국가데이터처 2024년 생명표<br>경고그림·문구 보건복지부 제5기 · 나라별 가격 공개자료 2026<br>기록은 이 브라우저에만 저장됩니다",
   mins:"{n}분", hours:"{n}시간", days:"{n}일", months:"{n}개월", years:"{n}년",
   noteHeat:"궐련형 전자담배는 개비당 수명단축을 산출한 공신력 있는 연구가 아직 없어 수명 계산에서 제외합니다. <b>무해하다는 뜻은 아닙니다</b> — 담뱃갑 경고문구는 “니코틴 중독, 발암물질 노출!”입니다.",
@@ -1298,6 +1299,7 @@ function applyLang(){
     adA:"adA",adAd:"adAd",adB:"adB",adBd:"adBd",adC:"adC",adCd:"adCd",adD:"adD",adDd:"adDd",
     h_shop:"hShop",n_shop:"nShop",
     lk_priv:"lkPriv",lk_terms:"lkTerms",
+    lk_about:"lkAbout",lk_tl:"lkTl",lk_pr:"lkPr",lk_ql:"lkQl",
     cs_h:"csH",cs_sub:"csSub",cw_h:"cwH",ct_h:"ctH",cq_h:"cqH",cq_sub:"cqSub",
     cl_h:"clH",cl_sub:"clSub",cf_h:"cfH",cf_sub:"cfSub",cw_sub:"cwSub",ct_sub:"ctSub"};
   for(var id2 in html){var e2=$(id2); if(e2) e2.innerHTML=t(html[id2]);}

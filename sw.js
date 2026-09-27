@@ -1,5 +1,5 @@
-const CACHE="timeleft-v16";
-const ASSETS=["./","index.html","privacy.html","terms.html","manifest.webmanifest","icon-192.png","icon-512.png","apple-touch-icon.png","og.png","v/surgery.webm","v/smoke.webm","v/tray.webm","v/dawn.webm","v/lungs.webm","v/field.webm"];
+const CACHE="timeleft-v17";
+const ASSETS=["./","index.html","about.html","timeline.html","prices.html","quitlines.html","privacy.html","terms.html","manifest.webmanifest","icon-192.png","icon-512.png","apple-touch-icon.png","og.png","v/surgery.webm","v/smoke.webm","v/tray.webm","v/dawn.webm","v/lungs.webm","v/field.webm"];
 self.addEventListener("install",e=>{
   e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting()));
 });
