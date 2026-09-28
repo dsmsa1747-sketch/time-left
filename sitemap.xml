@@ -1,10 +1,308 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://quitminutes.com/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-<url><loc>https://quitminutes.com/about.html</loc></url>
-<url><loc>https://quitminutes.com/timeline.html</loc></url>
-<url><loc>https://quitminutes.com/prices.html</loc></url>
-<url><loc>https://quitminutes.com/quitlines.html</loc></url>
-<url><loc>https://quitminutes.com/privacy.html</loc></url>
-<url><loc>https://quitminutes.com/terms.html</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://quitminutes.com/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/timeline.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/timeline.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/timeline.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/prices.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/prices.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/prices.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/quitlines.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/quitlines.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/quitlines.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/about.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/about.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/about.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/privacy.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/privacy.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/privacy.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/terms.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/terms.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/terms.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-australia.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-australia.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-australia.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-new-zealand.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-new-zealand.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-new-zealand.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-united-kingdom.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-united-kingdom.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-united-kingdom.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-norway.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-norway.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-norway.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-france.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-france.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-france.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-canada.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-canada.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-canada.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-switzerland.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-switzerland.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-switzerland.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-netherlands.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-netherlands.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-netherlands.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-denmark.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-denmark.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-denmark.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-germany.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-germany.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-germany.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-united-states.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-united-states.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-united-states.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-sweden.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-sweden.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-sweden.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-austria.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-austria.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-austria.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-italy.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-italy.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-italy.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-spain.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-spain.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-spain.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-portugal.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-portugal.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-portugal.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-uae.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-uae.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-uae.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-mexico.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-mexico.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-mexico.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-poland.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-poland.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-poland.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-japan.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-japan.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-japan.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-south-korea.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-south-korea.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-south-korea.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-south-africa.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-south-africa.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-south-africa.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-brazil.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-brazil.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-brazil.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-india.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-india.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-india.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-pakistan.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-pakistan.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-pakistan.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-nigeria.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-nigeria.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-nigeria.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-egypt.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-egypt.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-egypt.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-russia.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-russia.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-russia.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-vietnam.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-vietnam.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-vietnam.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-indonesia.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-indonesia.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-indonesia.html?lang=ko"/>
+  </url>
+  <url>
+    <loc>https://quitminutes.com/cost-of-smoking-turkiye.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quitminutes.com/cost-of-smoking-turkiye.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://quitminutes.com/cost-of-smoking-turkiye.html?lang=ko"/>
+  </url>
 </urlset>
