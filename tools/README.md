@@ -30,3 +30,16 @@ python tools/render.py 0 172  # out/*.mp4  (약 13초/개)
 
 ## 경고그림
 제5기 만료 2026-12-22 → 제6기 이미지로 `warn5.json` 교체 필요.
+
+---
+
+# QuitMinutes 카드뉴스 (제작비 $0 · 무한 재생성)
+
+- `cards/<id>/01..05.png` — 1080×1350. 인스타 피드·캐러셀, 스레드, 페이스북
+- `pins/<id>.png` — 1000×1500. 핀터레스트 2:3
+- `<id>` 는 `q/contentbank.json` 의 항목 id 와 같다 → 캡션·해시태그·링크를 그대로 재사용
+
+43세트(영어 31 / 한국어 12) · 카드 215장 · 핀 43장.
+담뱃값이 바뀌면 `tools/world.json` 만 고치고 `python cards.py 0 43` 재실행하면 전부 새 숫자로 다시 나온다.
+
+필요 패키지: pillow, numpy / 폰트: fonts-noto-cjk, fonts-noto-color-emoji
