@@ -1,0 +1,16 @@
+file                                         ko     en  h2 tbl  src faq  ld+json                      verdict
+guide-first-72-hours.html                  3137   1155  18   2    6   3  Article,FAQPage,BreadcrumbList PASS
+guide-nicotine-replacement.html            3151   1053  18   2    6   3  Article,FAQPage,BreadcrumbList PASS
+guide-korea-cigarette-price-history.html   2743    994  20   4    6   3  Article,FAQPage,BreadcrumbList PASS
+guide-20-minutes-per-cigarette.html        3236   1153  18   2    6   3  Article,FAQPage,BreadcrumbList PASS
+guide-korea-quit-support.html              2639    923  18   2    6   3  Article,FAQPage,BreadcrumbList PASS
+guide-withdrawal-symptoms.html             2625    916  18   2    6   3  Article,FAQPage,BreadcrumbList PASS
+guide-weight-gain.html                     2922   1062  18   2    6   3  Article,FAQPage,BreadcrumbList PASS
+guide-alcohol-cravings.html                2684    952  18   2    6   3  Article,FAQPage,BreadcrumbList PASS
+guide-vaping-heated-tobacco.html           3013    998  18   2    6   3  Article,FAQPage,BreadcrumbList PASS
+guide-cigarette-tax-share.html             3415   1090  20   2    6   3  Article,FAQPage,BreadcrumbList PASS
+guide-pregnancy-quit.html                  2842    994  18   2    6   3  Article,FAQPage,BreadcrumbList PASS
+guide-using-quitminutes.html               2664    948  20   2    6   3  Article,FAQPage,BreadcrumbList PASS
+guides.html                                1067    352   8   0    0   0  CollectionPage,BreadcrumbList PASS
+
+files=13 pass=13 fail=0
