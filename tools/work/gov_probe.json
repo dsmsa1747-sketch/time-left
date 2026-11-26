@@ -1,0 +1,770 @@
+{
+ "AU": {
+  "url": "https://www.health.gov.au/topics/smoking-vaping-and-tobacco",
+  "final": "https://www.health.gov.au/topics/smoking-vaping-and-tobacco",
+  "title": "Australian Government Department of Health, Disability and Ageing",
+  "status": 0,
+  "kw": [],
+  "ok": false,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.health.gov.au/topics/smoking-vaping-and-tobacco",
+    "status": 0,
+    "kw": 0,
+    "err": "meoutError: The read operation timed out"
+   },
+   {
+    "url": "https://www.health.gov.au/",
+    "status": 0,
+    "kw": 0,
+    "err": "meoutError: The read operation timed out"
+   }
+  ]
+ },
+ "NZ": {
+  "url": "https://info.health.nz/keeping-healthy/smoking-and-vaping",
+  "final": "https://www.healthnz.govt.nz/health-topics/keeping-healthy/smoking-and-vaping",
+  "title": "Health New Zealand - Smoking and vaping",
+  "status": 200,
+  "kw": [
+   "smoking",
+   "quit",
+   "vaping",
+   "nicotine"
+  ],
+  "ok": true,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://info.health.nz/keeping-healthy/smoking-and-vaping",
+    "status": 200,
+    "kw": 4,
+    "err": ""
+   }
+  ]
+ },
+ "GB": {
+  "url": "https://www.nhs.uk/better-health/quit-smoking/",
+  "final": "https://www.nhs.uk/better-health/quit-smoking/",
+  "title": "NHS Better Health - Quit Smoking",
+  "status": 200,
+  "kw": [
+   "tobacco",
+   "smoking",
+   "smoke-free",
+   "quit"
+  ],
+  "ok": true,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.nhs.uk/better-health/quit-smoking/",
+    "status": 200,
+    "kw": 6,
+    "err": ""
+   }
+  ]
+ },
+ "NO": {
+  "url": "https://www.helsenorge.no/snus-og-roykeslutt/",
+  "final": "https://www.helsenorge.no/snus-og-roykeslutt/",
+  "title": "Helsenorge - Snus- og roykeslutt",
+  "status": 200,
+  "kw": [
+   "quit",
+   "røyk",
+   "snus"
+  ],
+  "ok": true,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.helsenorge.no/snus-og-roykeslutt/",
+    "status": 200,
+    "kw": 3,
+    "err": ""
+   }
+  ]
+ },
+ "FR": {
+  "url": "https://www.santepubliquefrance.fr/determinants-de-sante/tabac",
+  "final": "https://www.santepubliquefrance.fr/tabac",
+  "title": "Sante publique France / Tabac info service",
+  "status": 200,
+  "kw": [
+   "tobacco",
+   "smoking",
+   "quit",
+   "tabac"
+  ],
+  "ok": true,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.santepubliquefrance.fr/determinants-de-sante/tabac",
+    "status": 200,
+    "kw": 4,
+    "err": ""
+   }
+  ]
+ },
+ "CA": {
+  "url": "https://www.canada.ca/en/health-canada/services/smoking-tobacco.html",
+  "final": "https://www.canada.ca/en/health-canada/services/smoking-tobacco.html",
+  "title": "Health Canada - Smoking and tobacco",
+  "status": 200,
+  "kw": [
+   "tobacco",
+   "smoking",
+   "smoke-free",
+   "quit"
+  ],
+  "ok": true,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.canada.ca/en/health-canada/services/smoking-tobacco.html",
+    "status": 200,
+    "kw": 8,
+    "err": ""
+   }
+  ]
+ },
+ "CH": {
+  "url": "https://www.bag.admin.ch/bag/de/home.html",
+  "final": "https://www.bag.admin.ch/de",
+  "title": "Swiss Federal Office of Public Health (BAG) - Tabak",
+  "status": 200,
+  "kw": [
+   "tabac",
+   "tabak",
+   "rauch"
+  ],
+  "ok": true,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.bag.admin.ch/bag/de/home/gesund-leben/sucht-und-gesundheit/tabak.html",
+    "status": 404,
+    "kw": 0,
+    "err": ""
+   },
+   {
+    "url": "https://www.bag.admin.ch/bag/de/home.html",
+    "status": 200,
+    "kw": 3,
+    "err": ""
+   }
+  ]
+ },
+ "NL": {
+  "url": "https://www.rijksoverheid.nl/onderwerpen/roken/",
+  "final": "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/roken",
+  "title": "Rijksoverheid - Roken / Ikstopnu (Trimbos)",
+  "status": 200,
+  "kw": [
+   "nicotine",
+   "tabak",
+   "roken"
+  ],
+  "ok": true,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.rijksoverheid.nl/onderwerpen/roken/",
+    "status": 200,
+    "kw": 3,
+    "err": ""
+   }
+  ]
+ },
+ "DK": {
+  "url": "https://www.stoplinien.dk/",
+  "final": "https://www.stoplinien.dk/",
+  "title": "Stoplinien / Sundhedsstyrelsen (Danish Health Authority)",
+  "status": 200,
+  "kw": [
+   "smoking",
+   "cigarette",
+   "nicotine",
+   "snus"
+  ],
+  "ok": true,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.stoplinien.dk/",
+    "status": 200,
+    "kw": 4,
+    "err": ""
+   }
+  ]
+ },
+ "DE": {
+  "url": "https://www.rauchfrei-info.de/",
+  "final": "https://www.rauchfrei-info.de/",
+  "title": "rauchfrei info (BZgA, Bundeszentrale fur gesundheitliche Aufklarung)",
+  "status": 200,
+  "kw": [
+   "smoking",
+   "cigarette",
+   "tabak",
+   "rauch"
+  ],
+  "ok": true,
+  "tel_verified": true,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.rauchfrei-info.de/",
+    "status": 200,
+    "kw": 4,
+    "err": ""
+   }
+  ]
+ },
+ "US": {
+  "url": "https://www.cdc.gov/tobacco/",
+  "final": "https://www.cdc.gov/tobacco/",
+  "title": "CDC - Smoking and Tobacco Use",
+  "status": 200,
+  "kw": [
+   "tobacco",
+   "smoking",
+   "quit",
+   "cigarette"
+  ],
+  "ok": true,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.cdc.gov/tobacco/",
+    "status": 200,
+    "kw": 6,
+    "err": ""
+   }
+  ]
+ },
+ "SE": {
+  "url": "https://www.folkhalsomyndigheten.se/livsvillkor-levnadsvanor/alkohol-narkotika-dopning-tobak-och-spel-andts/tobak-och-nikotin/",
+  "final": "https://www.folkhalsomyndigheten.se/livsvillkor-levnadsvanor/alkohol-narkotika-dopning-tobak-och-spel-andts/tobak-och-nikotin/",
+  "title": "Folkhalsomyndigheten - Tobak och nikotin",
+  "status": 200,
+  "kw": [],
+  "ok": false,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.folkhalsomyndigheten.se/livsvillkor-levnadsvanor/alkohol-narkotika-dopning-tobak-och-spel-andts/tobak-och-nikotin/",
+    "status": 404,
+    "kw": 0,
+    "err": ""
+   },
+   {
+    "url": "https://www.folkhalsomyndigheten.se/",
+    "status": 200,
+    "kw": 0,
+    "err": ""
+   }
+  ]
+ },
+ "AT": {
+  "url": "https://www.sozialministerium.at/",
+  "final": "https://www.sozialministerium.gv.at/",
+  "title": "gesundheit.gv.at (Oesterreichisches Gesundheitsportal) - Rauchen",
+  "status": 200,
+  "kw": [
+   "tabak",
+   "rauch"
+  ],
+  "ok": true,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.gesundheit.gv.at/leben/rauchen/rauchen-aufhoeren.html",
+    "status": 404,
+    "kw": 0,
+    "err": ""
+   },
+   {
+    "url": "https://www.sozialministerium.at/",
+    "status": 200,
+    "kw": 2,
+    "err": ""
+   }
+  ]
+ },
+ "IT": {
+  "url": "https://www.iss.it/fumo",
+  "final": "https://www.iss.it/fumo",
+  "title": "Istituto Superiore di Sanita / Ministero della Salute - Fumo",
+  "status": 200,
+  "kw": [
+   "tabac",
+   "tabacco",
+   "tabagismo",
+   "fumo"
+  ],
+  "ok": true,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.iss.it/fumo",
+    "status": 200,
+    "kw": 4,
+    "err": ""
+   }
+  ]
+ },
+ "ES": {
+  "url": "https://www.sanidad.gob.es/areas/promocionPrevencion/tabaco/home.htm",
+  "final": "https://www.sanidad.gob.es/areas/promocionPrevencion/tabaco/home.htm",
+  "title": "Ministerio de Sanidad - Tabaco",
+  "status": 200,
+  "kw": [
+   "tabac",
+   "tabaco"
+  ],
+  "ok": true,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.sanidad.gob.es/areas/promocionPrevencion/tabaco/home.htm",
+    "status": 200,
+    "kw": 2,
+    "err": ""
+   }
+  ]
+ },
+ "PT": {
+  "url": "https://www.dgs.pt/paginas-de-sistema/saude-de-a-a-z/tabaco.aspx",
+  "final": "https://www.dgs.pt/paginas-de-sistema/saude-de-a-a-z/tabaco.aspx",
+  "title": "Direcao-Geral da Saude - Tabaco",
+  "status": 200,
+  "kw": [
+   "tobacco",
+   "tabac",
+   "tabaco",
+   "tabagismo"
+  ],
+  "ok": true,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.dgs.pt/paginas-de-sistema/saude-de-a-a-z/tabaco.aspx",
+    "status": 200,
+    "kw": 5,
+    "err": ""
+   }
+  ]
+ },
+ "AE": {
+  "url": "https://u.ae/en/information-and-services/health-and-fitness",
+  "final": "https://u.ae/en/information-and-services/health-and-fitness",
+  "title": "UAE Government portal / Ministry of Health and Prevention",
+  "status": 200,
+  "kw": [],
+  "ok": false,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://u.ae/en/information-and-services/health-and-fitness",
+    "status": 200,
+    "kw": 0,
+    "err": ""
+   },
+   {
+    "url": "https://mohap.gov.ae/en",
+    "status": 0,
+    "kw": 0,
+    "err": "LError: <urlopen error [WinError 10054] 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다>"
+   },
+   {
+    "url": "https://u.ae/en",
+    "status": 200,
+    "kw": 0,
+    "err": ""
+   }
+  ]
+ },
+ "MX": {
+  "url": "https://www.gob.mx/salud/conadic",
+  "final": "https://www.gob.mx/salud/conadic",
+  "title": "Secretaria de Salud / CONADIC - Tabaco",
+  "status": 200,
+  "kw": [],
+  "ok": false,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.gob.mx/salud/conadic",
+    "status": 404,
+    "kw": 0,
+    "err": ""
+   },
+   {
+    "url": "https://www.gob.mx/salud",
+    "status": 200,
+    "kw": 0,
+    "err": ""
+   },
+   {
+    "url": "https://www.insp.mx/",
+    "status": 200,
+    "kw": 0,
+    "err": ""
+   }
+  ]
+ },
+ "PL": {
+  "url": "https://jakrzucicpalenie.pl/",
+  "final": "https://jakrzucicpalenie.pl/",
+  "title": "Ministerstwo Zdrowia / KCPU",
+  "status": 200,
+  "kw": [
+   "cigarette",
+   "palenie",
+   "papieros"
+  ],
+  "ok": true,
+  "tel_verified": true,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.gov.pl/web/zdrowie/palenie-tytoniu",
+    "status": 404,
+    "kw": 0,
+    "err": ""
+   },
+   {
+    "url": "https://jakrzucicpalenie.pl/",
+    "status": 200,
+    "kw": 3,
+    "err": ""
+   }
+  ]
+ },
+ "JP": {
+  "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/tobacco/index.html",
+  "final": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/tobacco/index.html",
+  "title": "Ministry of Health, Labour and Welfare - Tobacco",
+  "status": 200,
+  "kw": [
+   "tobacco",
+   "禁煙",
+   "たばこ",
+   "tabac"
+  ],
+  "ok": true,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/tobacco/index.html",
+    "status": 200,
+    "kw": 5,
+    "err": ""
+   }
+  ]
+ },
+ "KR": {
+  "url": "https://nosmokeguide.khealth.or.kr/",
+  "final": "https://nosmokeguide.khealth.or.kr/",
+  "title": "금연길라잡이 / 국가금연지원센터 (한국건강증진개발원)",
+  "status": 200,
+  "kw": [],
+  "ok": false,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://nosmokeguide.khealth.or.kr/",
+    "status": 0,
+    "kw": 0,
+    "err": "LError: <urlopen error [Errno 11001] getaddrinfo failed>"
+   },
+   {
+    "url": "https://www.khealth.or.kr/",
+    "status": 0,
+    "kw": 0,
+    "err": "meoutError: The read operation timed out"
+   },
+   {
+    "url": "https://nosmk.khealth.or.kr/",
+    "status": 200,
+    "kw": 0,
+    "err": ""
+   },
+   {
+    "url": "https://www.mohw.go.kr/menu.es?mid=a10707010100",
+    "status": 200,
+    "kw": 0,
+    "err": ""
+   }
+  ]
+ },
+ "ZA": {
+  "url": "https://www.health.gov.za/tobacco-control/",
+  "final": "https://www.health.gov.za/tobacco-control/",
+  "title": "National Department of Health South Africa",
+  "status": 200,
+  "kw": [],
+  "ok": false,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.health.gov.za/tobacco-control/",
+    "status": 404,
+    "kw": 0,
+    "err": ""
+   },
+   {
+    "url": "https://www.health.gov.za/",
+    "status": 200,
+    "kw": 0,
+    "err": ""
+   }
+  ]
+ },
+ "BR": {
+  "url": "https://www.gov.br/inca/pt-br/assuntos/gestor-e-profissional-de-saude/programa-nacional-de-controle-do-tabagismo",
+  "final": "https://www.gov.br/inca/pt-br/assuntos/gestor-e-profissional-de-saude/programa-nacional-de-controle-do-tabagismo",
+  "title": "INCA - Programa Nacional de Controle do Tabagismo",
+  "status": 200,
+  "kw": [
+   "tabac",
+   "tabaco",
+   "tabagismo",
+   "fumo"
+  ],
+  "ok": true,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.gov.br/inca/pt-br/assuntos/gestor-e-profissional-de-saude/programa-nacional-de-controle-do-tabagismo",
+    "status": 200,
+    "kw": 4,
+    "err": ""
+   }
+  ]
+ },
+ "IN": {
+  "url": "https://ntcp.mohfw.gov.in/",
+  "final": "https://ntcp.mohfw.gov.in/",
+  "title": "National Tobacco Control Programme (MoHFW)",
+  "status": 200,
+  "kw": [
+   "tobacco",
+   "smoking",
+   "quit",
+   "cigarette"
+  ],
+  "ok": true,
+  "tel_verified": true,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://ntcp.mohfw.gov.in/",
+    "status": 200,
+    "kw": 6,
+    "err": ""
+   }
+  ]
+ },
+ "PK": {
+  "url": "https://www.nhsrc.gov.pk/",
+  "final": "https://www.nhsrc.gov.pk/",
+  "title": "Ministry of National Health Services, Regulations and Coordination",
+  "status": 200,
+  "kw": [
+   "quit"
+  ],
+  "ok": true,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.nhsrc.gov.pk/",
+    "status": 200,
+    "kw": 1,
+    "err": ""
+   }
+  ]
+ },
+ "NG": {
+  "url": "https://www.health.gov.ng/",
+  "final": "https://health.gov.ng/",
+  "title": "Federal Ministry of Health Nigeria",
+  "status": 200,
+  "kw": [
+   "roken"
+  ],
+  "ok": true,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.health.gov.ng/",
+    "status": 200,
+    "kw": 1,
+    "err": ""
+   }
+  ]
+ },
+ "EG": {
+  "url": "https://www.mohp.gov.eg/",
+  "final": "https://www.mohp.gov.eg/",
+  "title": "Ministry of Health and Population Egypt",
+  "status": 0,
+  "kw": [],
+  "ok": false,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.mohp.gov.eg/",
+    "status": 0,
+    "kw": 0,
+    "err": "LError: <urlopen error [WinError 10060] 연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다>"
+   },
+   {
+    "url": "http://www.mohp.gov.eg/",
+    "status": 0,
+    "kw": 0,
+    "err": "LError: <urlopen error [WinError 10060] 연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다>"
+   }
+  ]
+ },
+ "RU": {
+  "url": "https://www.takzdorovo.ru/privychki/kurenie/",
+  "final": "https://www.takzdorovo.ru/privychki/kurenie/",
+  "title": "Takzdorovo.ru (Ministry of Health project) / Minzdrav",
+  "status": 200,
+  "kw": [],
+  "ok": false,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://www.takzdorovo.ru/privychki/kurenie/",
+    "status": 403,
+    "kw": 0,
+    "err": ""
+   },
+   {
+    "url": "https://www.takzdorovo.ru/",
+    "status": 403,
+    "kw": 0,
+    "err": ""
+   },
+   {
+    "url": "https://minzdrav.gov.ru/",
+    "status": 200,
+    "kw": 0,
+    "err": ""
+   }
+  ]
+ },
+ "VN": {
+  "url": "https://vinacosh.gov.vn/",
+  "final": "https://vinacosh.gov.vn/vi/",
+  "title": "Vietnam Steering Committee on Smoking and Health (VINACOSH)",
+  "status": 200,
+  "kw": [
+   "thuốc lá"
+  ],
+  "ok": true,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://vinacosh.gov.vn/",
+    "status": 200,
+    "kw": 1,
+    "err": ""
+   }
+  ]
+ },
+ "ID": {
+  "url": "https://p2ptm.kemkes.go.id/informasi-p2ptm/penyakit-akibat-tembakau",
+  "final": "https://p2ptm.kemkes.go.id/informasi-p2ptm/penyakit-akibat-tembakau",
+  "title": "Kementerian Kesehatan - P2PTM",
+  "status": 200,
+  "kw": [],
+  "ok": false,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://p2ptm.kemkes.go.id/informasi-p2ptm/penyakit-akibat-tembakau",
+    "status": 404,
+    "kw": 0,
+    "err": ""
+   },
+   {
+    "url": "https://p2ptm.kemkes.go.id/",
+    "status": 200,
+    "kw": 0,
+    "err": ""
+   },
+   {
+    "url": "https://www.kemkes.go.id/",
+    "status": 200,
+    "kw": 0,
+    "err": ""
+   }
+  ]
+ },
+ "TR": {
+  "url": "https://www.saglik.gov.tr/",
+  "final": "https://www.saglik.gov.tr/",
+  "title": "Saglik Bakanligi Halk Sagligi Genel Mudurlugu - Tutun ile Mucadele",
+  "status": 200,
+  "kw": [
+   "sigara"
+  ],
+  "ok": true,
+  "tel_verified": false,
+  "fetched": "2026-11-26",
+  "tried": [
+   {
+    "url": "https://hsgm.saglik.gov.tr/tr/tutun-mucadele-bagimlilik",
+    "status": 0,
+    "kw": 0,
+    "err": "LError: <urlopen error [WinError 10060] 연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다>"
+   },
+   {
+    "url": "https://hsgm.saglik.gov.tr/",
+    "status": 0,
+    "kw": 0,
+    "err": "LError: <urlopen error [WinError 10060] 연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다>"
+   },
+   {
+    "url": "https://www.saglik.gov.tr/",
+    "status": 200,
+    "kw": 1,
+    "err": ""
+   }
+  ]
+ }
+}

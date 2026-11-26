@@ -1,0 +1,218 @@
+{
+ "_note": "나라별 공식(정부·공공기관) 금연/담배 페이지 후보. 후보일 뿐 사실이 아니다 — buildfacts.py 가 urls 를 순서대로 GET 해서 'HTTP 200 + 담배·금연 키워드'를 처음 통과한 것만 countryfacts.json 의 sources 로 넣는다. 전부 실패하면 그 나라는 자국 출처 없음으로 남긴다(지어내지 않는다).",
+ "AU": {
+  "title": "Australian Government Department of Health, Disability and Ageing",
+  "urls": [
+   "https://www.health.gov.au/topics/smoking-vaping-and-tobacco",
+   "https://www.health.gov.au/"
+  ]
+ },
+ "NZ": {
+  "title": "Health New Zealand - Smoking and vaping",
+  "urls": [
+   "https://info.health.nz/keeping-healthy/smoking-and-vaping"
+  ]
+ },
+ "GB": {
+  "title": "NHS Better Health - Quit Smoking",
+  "urls": [
+   "https://www.nhs.uk/better-health/quit-smoking/"
+  ]
+ },
+ "NO": {
+  "title": "Helsenorge - Snus- og roykeslutt",
+  "urls": [
+   "https://www.helsenorge.no/snus-og-roykeslutt/"
+  ]
+ },
+ "FR": {
+  "title": "Sante publique France / Tabac info service",
+  "urls": [
+   "https://www.santepubliquefrance.fr/determinants-de-sante/tabac",
+   "https://sante.gouv.fr/",
+   "https://www.tabac-info-service.fr/"
+  ]
+ },
+ "CA": {
+  "title": "Health Canada - Smoking and tobacco",
+  "urls": [
+   "https://www.canada.ca/en/health-canada/services/smoking-tobacco.html"
+  ]
+ },
+ "CH": {
+  "title": "Swiss Federal Office of Public Health (BAG) - Tabak",
+  "urls": [
+   "https://www.bag.admin.ch/bag/de/home/gesund-leben/sucht-und-gesundheit/tabak.html",
+   "https://www.bag.admin.ch/bag/de/home.html"
+  ]
+ },
+ "NL": {
+  "title": "Rijksoverheid - Roken / Ikstopnu (Trimbos)",
+  "urls": [
+   "https://www.rijksoverheid.nl/onderwerpen/roken/",
+   "https://www.ikstopnu.nl/",
+   "https://www.rijksoverheid.nl/onderwerpen/roken"
+  ]
+ },
+ "DK": {
+  "title": "Stoplinien / Sundhedsstyrelsen (Danish Health Authority)",
+  "urls": [
+   "https://www.stoplinien.dk/",
+   "https://www.sst.dk/da/viden/tobak"
+  ]
+ },
+ "DE": {
+  "title": "rauchfrei info (BZgA, Bundeszentrale fur gesundheitliche Aufklarung)",
+  "urls": [
+   "https://www.rauchfrei-info.de/"
+  ]
+ },
+ "US": {
+  "title": "CDC - Smoking and Tobacco Use",
+  "urls": [
+   "https://www.cdc.gov/tobacco/"
+  ]
+ },
+ "SE": {
+  "title": "Folkhalsomyndigheten - Tobak och nikotin",
+  "urls": [
+   "https://www.folkhalsomyndigheten.se/livsvillkor-levnadsvanor/alkohol-narkotika-dopning-tobak-och-spel-andts/tobak-och-nikotin/",
+   "https://www.folkhalsomyndigheten.se/"
+  ]
+ },
+ "AT": {
+  "title": "gesundheit.gv.at (Oesterreichisches Gesundheitsportal) - Rauchen",
+  "urls": [
+   "https://www.gesundheit.gv.at/leben/rauchen/rauchen-aufhoeren.html",
+   "https://www.sozialministerium.at/"
+  ]
+ },
+ "IT": {
+  "title": "Istituto Superiore di Sanita / Ministero della Salute - Fumo",
+  "urls": [
+   "https://www.iss.it/fumo",
+   "https://www.salute.gov.it/portale/fumo/homeFumo.jsp",
+   "https://www.salute.gov.it/"
+  ]
+ },
+ "ES": {
+  "title": "Ministerio de Sanidad - Tabaco",
+  "urls": [
+   "https://www.sanidad.gob.es/areas/promocionPrevencion/tabaco/home.htm"
+  ]
+ },
+ "PT": {
+  "title": "Direcao-Geral da Saude - Tabaco",
+  "urls": [
+   "https://www.dgs.pt/paginas-de-sistema/saude-de-a-a-z/tabaco.aspx"
+  ]
+ },
+ "AE": {
+  "title": "UAE Government portal / Ministry of Health and Prevention",
+  "urls": [
+   "https://u.ae/en/information-and-services/health-and-fitness",
+   "https://mohap.gov.ae/en",
+   "https://u.ae/en"
+  ]
+ },
+ "MX": {
+  "title": "Secretaria de Salud / CONADIC - Tabaco",
+  "urls": [
+   "https://www.gob.mx/salud/conadic",
+   "https://www.gob.mx/salud",
+   "https://www.insp.mx/"
+  ]
+ },
+ "PL": {
+  "title": "Ministerstwo Zdrowia / KCPU",
+  "urls": [
+   "https://www.gov.pl/web/zdrowie/palenie-tytoniu",
+   "https://jakrzucicpalenie.pl/",
+   "https://www.gov.pl/web/zdrowie"
+  ]
+ },
+ "JP": {
+  "title": "Ministry of Health, Labour and Welfare - Tobacco",
+  "urls": [
+   "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/tobacco/index.html"
+  ]
+ },
+ "KR": {
+  "title": "금연길라잡이 / 국가금연지원센터 (한국건강증진개발원)",
+  "urls": [
+   "https://nosmokeguide.khealth.or.kr/",
+   "https://www.khealth.or.kr/",
+   "https://nosmk.khealth.or.kr/",
+   "https://www.mohw.go.kr/menu.es?mid=a10707010100"
+  ]
+ },
+ "ZA": {
+  "title": "National Department of Health South Africa",
+  "urls": [
+   "https://www.health.gov.za/tobacco-control/",
+   "https://www.health.gov.za/"
+  ]
+ },
+ "BR": {
+  "title": "INCA - Programa Nacional de Controle do Tabagismo",
+  "urls": [
+   "https://www.gov.br/inca/pt-br/assuntos/gestor-e-profissional-de-saude/programa-nacional-de-controle-do-tabagismo"
+  ]
+ },
+ "IN": {
+  "title": "National Tobacco Control Programme (MoHFW)",
+  "urls": [
+   "https://ntcp.mohfw.gov.in/"
+  ]
+ },
+ "PK": {
+  "title": "Ministry of National Health Services, Regulations and Coordination",
+  "urls": [
+   "https://www.nhsrc.gov.pk/",
+   "https://tcc.gov.pk/"
+  ]
+ },
+ "NG": {
+  "title": "Federal Ministry of Health Nigeria",
+  "urls": [
+   "https://www.health.gov.ng/"
+  ]
+ },
+ "EG": {
+  "title": "Ministry of Health and Population Egypt",
+  "urls": [
+   "https://www.mohp.gov.eg/",
+   "http://www.mohp.gov.eg/"
+  ]
+ },
+ "RU": {
+  "title": "Takzdorovo.ru (Ministry of Health project) / Minzdrav",
+  "urls": [
+   "https://www.takzdorovo.ru/privychki/kurenie/",
+   "https://www.takzdorovo.ru/",
+   "https://minzdrav.gov.ru/"
+  ]
+ },
+ "VN": {
+  "title": "Vietnam Steering Committee on Smoking and Health (VINACOSH)",
+  "urls": [
+   "https://vinacosh.gov.vn/"
+  ]
+ },
+ "ID": {
+  "title": "Kementerian Kesehatan - P2PTM",
+  "urls": [
+   "https://p2ptm.kemkes.go.id/informasi-p2ptm/penyakit-akibat-tembakau",
+   "https://p2ptm.kemkes.go.id/",
+   "https://www.kemkes.go.id/"
+  ]
+ },
+ "TR": {
+  "title": "Saglik Bakanligi Halk Sagligi Genel Mudurlugu - Tutun ile Mucadele",
+  "urls": [
+   "https://hsgm.saglik.gov.tr/tr/tutun-mucadele-bagimlilik",
+   "https://hsgm.saglik.gov.tr/",
+   "https://www.saglik.gov.tr/"
+  ]
+ }
+}

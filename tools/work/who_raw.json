@@ -1,0 +1,2260 @@
+{
+ "fetched": "2026-11-26",
+ "source": "https://ghoapi.azureedge.net/api/",
+ "indicators": {
+  "P_count_places_sf": {
+   "key": "smokefree_places",
+   "desc": "국가 금연법이 전면 금연으로 지정한 장소 수(8곳 중)",
+   "by_country": {
+    "AUS": {
+     "year": 2022,
+     "value": "8",
+     "num": 8.0
+    },
+    "EGY": {
+     "year": 2022,
+     "value": "8",
+     "num": 8.0
+    },
+    "TUR": {
+     "year": 2022,
+     "value": "8",
+     "num": 8.0
+    },
+    "NLD": {
+     "year": 2022,
+     "value": "8",
+     "num": 8.0
+    },
+    "PRT": {
+     "year": 2022,
+     "value": "6",
+     "num": 6.0
+    },
+    "NGA": {
+     "year": 2022,
+     "value": "2",
+     "num": 2.0
+    },
+    "NOR": {
+     "year": 2022,
+     "value": "8",
+     "num": 8.0
+    },
+    "DNK": {
+     "year": 2022,
+     "value": "1",
+     "num": 1.0
+    },
+    "KOR": {
+     "year": 2022,
+     "value": "2",
+     "num": 2.0
+    },
+    "ZAF": {
+     "year": 2022,
+     "value": "0",
+     "num": 0.0
+    },
+    "JPN": {
+     "year": 2022,
+     "value": "4",
+     "num": 4.0
+    },
+    "AUT": {
+     "year": 2022,
+     "value": "4",
+     "num": 4.0
+    },
+    "POL": {
+     "year": 2022,
+     "value": "3",
+     "num": 3.0
+    },
+    "SWE": {
+     "year": 2022,
+     "value": "0",
+     "num": 0.0
+    },
+    "MEX": {
+     "year": 2022,
+     "value": "8",
+     "num": 8.0
+    },
+    "VNM": {
+     "year": 2022,
+     "value": "6",
+     "num": 6.0
+    },
+    "CHE": {
+     "year": 2022,
+     "value": "0",
+     "num": 0.0
+    },
+    "IND": {
+     "year": 2022,
+     "value": "6",
+     "num": 6.0
+    },
+    "ESP": {
+     "year": 2022,
+     "value": "8",
+     "num": 8.0
+    },
+    "ITA": {
+     "year": 2022,
+     "value": "0",
+     "num": 0.0
+    },
+    "FRA": {
+     "year": 2022,
+     "value": "3",
+     "num": 3.0
+    },
+    "NZL": {
+     "year": 2022,
+     "value": "8",
+     "num": 8.0
+    },
+    "CAN": {
+     "year": 2022,
+     "value": "8",
+     "num": 8.0
+    },
+    "IDN": {
+     "year": 2022,
+     "value": "4",
+     "num": 4.0
+    },
+    "RUS": {
+     "year": 2022,
+     "value": "8",
+     "num": 8.0
+    },
+    "ARE": {
+     "year": 2022,
+     "value": "4",
+     "num": 4.0
+    },
+    "PAK": {
+     "year": 2022,
+     "value": "8",
+     "num": 8.0
+    },
+    "GBR": {
+     "year": 2022,
+     "value": "8",
+     "num": 8.0
+    },
+    "BRA": {
+     "year": 2022,
+     "value": "8",
+     "num": 8.0
+    },
+    "DEU": {
+     "year": 2022,
+     "value": "0",
+     "num": 0.0
+    },
+    "USA": {
+     "year": 2022,
+     "value": "1",
+     "num": 1.0
+    }
+   }
+  },
+  "W2_pc_front_back_A": {
+   "key": "warning_pct",
+   "desc": "담뱃갑 주표시면 중 경고 표시 의무 비율(앞뒤 평균, %)",
+   "by_country": {
+    "CHE": {
+     "year": 2022,
+     "value": "43",
+     "num": 43.0
+    },
+    "TUR": {
+     "year": 2022,
+     "value": "93",
+     "num": 93.0
+    },
+    "PRT": {
+     "year": 2022,
+     "value": "65",
+     "num": 65.0
+    },
+    "IND": {
+     "year": 2022,
+     "value": "85",
+     "num": 85.0
+    },
+    "NOR": {
+     "year": 2022,
+     "value": "35",
+     "num": 35.0
+    },
+    "FRA": {
+     "year": 2022,
+     "value": "65",
+     "num": 65.0
+    },
+    "GBR": {
+     "year": 2022,
+     "value": "65",
+     "num": 65.0
+    },
+    "DEU": {
+     "year": 2022,
+     "value": "65",
+     "num": 65.0
+    },
+    "AUS": {
+     "year": 2022,
+     "value": "82.5",
+     "num": 82.5
+    },
+    "CAN": {
+     "year": 2022,
+     "value": "75",
+     "num": 75.0
+    },
+    "JPN": {
+     "year": 2022,
+     "value": "50",
+     "num": 50.0
+    },
+    "SWE": {
+     "year": 2022,
+     "value": "65",
+     "num": 65.0
+    },
+    "MEX": {
+     "year": 2022,
+     "value": "65",
+     "num": 65.0
+    },
+    "IDN": {
+     "year": 2022,
+     "value": "40",
+     "num": 40.0
+    },
+    "ITA": {
+     "year": 2022,
+     "value": "65",
+     "num": 65.0
+    },
+    "VNM": {
+     "year": 2022,
+     "value": "50",
+     "num": 50.0
+    },
+    "ARE": {
+     "year": 2022,
+     "value": "50",
+     "num": 50.0
+    },
+    "EGY": {
+     "year": 2022,
+     "value": "50",
+     "num": 50.0
+    },
+    "AUT": {
+     "year": 2022,
+     "value": "65",
+     "num": 65.0
+    },
+    "ESP": {
+     "year": 2022,
+     "value": "65",
+     "num": 65.0
+    },
+    "NGA": {
+     "year": 2022,
+     "value": "50",
+     "num": 50.0
+    },
+    "NLD": {
+     "year": 2022,
+     "value": "65",
+     "num": 65.0
+    },
+    "POL": {
+     "year": 2022,
+     "value": "65",
+     "num": 65.0
+    },
+    "ZAF": {
+     "year": 2022,
+     "value": "20",
+     "num": 20.0
+    },
+    "KOR": {
+     "year": 2022,
+     "value": "50",
+     "num": 50.0
+    },
+    "RUS": {
+     "year": 2022,
+     "value": "50",
+     "num": 50.0
+    },
+    "NZL": {
+     "year": 2022,
+     "value": "87.5",
+     "num": 87.5
+    },
+    "BRA": {
+     "year": 2022,
+     "value": "65",
+     "num": 65.0
+    },
+    "DNK": {
+     "year": 2022,
+     "value": "65",
+     "num": 65.0
+    },
+    "PAK": {
+     "year": 2022,
+     "value": "60",
+     "num": 60.0
+    },
+    "USA": {
+     "year": 2022,
+     "value": "Not specified",
+     "num": null
+    }
+   }
+  },
+  "W10_graphic_A": {
+   "key": "warning_graphic",
+   "desc": "경고에 사진·그림 포함 의무",
+   "by_country": {
+    "JPN": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "PRT": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ZAF": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "CAN": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "BRA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "FRA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "PAK": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "EGY": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "POL": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "CHE": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ITA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "AUT": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "USA": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "GBR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ESP": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "IND": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "TUR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NOR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NZL": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "VNM": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "DEU": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "SWE": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "IDN": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "DNK": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NLD": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ARE": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "AUS": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "KOR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NGA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "MEX": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "RUS": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    }
+   }
+  },
+  "W26_plain_packaging_A": {
+   "key": "plain_pack",
+   "desc": "무광고 단순포장(plain packaging) 의무",
+   "by_country": {
+    "ARE": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "ESP": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "GBR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "PAK": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "FRA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "IDN": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "VNM": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "POL": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "NGA": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "DEU": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "AUS": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "MEX": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "NZL": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "RUS": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "BRA": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "IND": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "USA": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "EGY": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "NLD": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "TUR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "CAN": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ZAF": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "PRT": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "NOR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "KOR": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "JPN": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "SWE": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "AUT": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "CHE": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "ITA": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "DNK": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    }
+   }
+  },
+  "R_total_tax_estimate": {
+   "key": "tax_share",
+   "desc": "가장 많이 팔리는 담배 소매가 중 총 세금 비중",
+   "by_country": {
+    "ZAF": {
+     "year": 2020,
+     "value": "0.53",
+     "num": 0.53
+    },
+    "KOR": {
+     "year": 2020,
+     "value": "0.74",
+     "num": 0.74
+    },
+    "IND": {
+     "year": 2020,
+     "value": "0.58",
+     "num": 0.58
+    },
+    "AUS": {
+     "year": 2020,
+     "value": "0.74",
+     "num": 0.74
+    },
+    "ITA": {
+     "year": 2020,
+     "value": "0.77",
+     "num": 0.77
+    },
+    "FRA": {
+     "year": 2020,
+     "value": "0.83",
+     "num": 0.83
+    },
+    "NLD": {
+     "year": 2020,
+     "value": "0.77",
+     "num": 0.77
+    },
+    "MEX": {
+     "year": 2020,
+     "value": "0.68",
+     "num": 0.68
+    },
+    "CHE": {
+     "year": 2020,
+     "value": "0.6",
+     "num": 0.6
+    },
+    "PRT": {
+     "year": 2020,
+     "value": "0.79",
+     "num": 0.79
+    },
+    "VNM": {
+     "year": 2020,
+     "value": "0.39",
+     "num": 0.39
+    },
+    "NZL": {
+     "year": 2020,
+     "value": "0.82",
+     "num": 0.82
+    },
+    "USA": {
+     "year": 2020,
+     "value": "0.4",
+     "num": 0.4
+    },
+    "BRA": {
+     "year": 2020,
+     "value": "0.82",
+     "num": 0.82
+    },
+    "NOR": {
+     "year": 2020,
+     "value": "0.62",
+     "num": 0.62
+    },
+    "SWE": {
+     "year": 2020,
+     "value": "0.68",
+     "num": 0.68
+    },
+    "GBR": {
+     "year": 2020,
+     "value": "0.79",
+     "num": 0.79
+    },
+    "RUS": {
+     "year": 2020,
+     "value": "0.56",
+     "num": 0.56
+    },
+    "ESP": {
+     "year": 2020,
+     "value": "0.78",
+     "num": 0.78
+    },
+    "ARE": {
+     "year": 2020,
+     "value": "0.73",
+     "num": 0.73
+    },
+    "DNK": {
+     "year": 2020,
+     "value": "0.78",
+     "num": 0.78
+    },
+    "JPN": {
+     "year": 2020,
+     "value": "0.61",
+     "num": 0.61
+    },
+    "PAK": {
+     "year": 2020,
+     "value": "0.61",
+     "num": 0.61
+    },
+    "NGA": {
+     "year": 2020,
+     "value": "0.37",
+     "num": 0.37
+    },
+    "DEU": {
+     "year": 2020,
+     "value": "0.64",
+     "num": 0.64
+    },
+    "EGY": {
+     "year": 2020,
+     "value": "0.79",
+     "num": 0.79
+    },
+    "TUR": {
+     "year": 2020,
+     "value": "0.85",
+     "num": 0.85
+    },
+    "IDN": {
+     "year": 2020,
+     "value": "0.62",
+     "num": 0.62
+    },
+    "POL": {
+     "year": 2020,
+     "value": "0.78",
+     "num": 0.78
+    },
+    "CAN": {
+     "year": 2020,
+     "value": "0.62",
+     "num": 0.62
+    },
+    "AUT": {
+     "year": 2020,
+     "value": "0.75",
+     "num": 0.75
+    }
+   }
+  },
+  "O_Quitline": {
+   "key": "quitline",
+   "desc": "무료(수신자부담) 금연상담전화 운영",
+   "by_country": {
+    "RUS": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ESP": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "KOR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ARE": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ITA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "AUS": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "IDN": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NGA": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "EGY": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "VNM": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "TUR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NOR": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "SWE": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "MEX": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "PRT": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "GBR": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "BRA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "USA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "POL": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "FRA": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "DNK": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NLD": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "JPN": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "AUT": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "PAK": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "CHE": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "DEU": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NZL": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "IND": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ZAF": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "CAN": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    }
+   }
+  },
+  "O_NRT_sold": {
+   "key": "nrt_sold",
+   "desc": "니코틴 대체요법 합법 판매",
+   "by_country": {
+    "CHE": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "EGY": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "GBR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "KOR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "JPN": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ITA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "FRA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "RUS": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "TUR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NLD": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "BRA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "PRT": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "DEU": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NOR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "IND": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "IDN": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NZL": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "POL": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "MEX": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "DNK": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "AUS": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "CAN": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NGA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ESP": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "USA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "VNM": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "PAK": {
+     "year": 2022,
+     "value": ". . .",
+     "num": null
+    },
+    "ARE": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "AUT": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ZAF": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "SWE": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    }
+   }
+  },
+  "O_NRT_ins": {
+   "key": "nrt_covered",
+   "desc": "니코틴 대체요법 비용 지원",
+   "by_country": {
+    "JPN": {
+     "year": 2022,
+     "value": "Partially",
+     "num": null
+    },
+    "NZL": {
+     "year": 2022,
+     "value": "Fully",
+     "num": null
+    },
+    "EGY": {
+     "year": 2022,
+     "value": "Not applicable",
+     "num": null
+    },
+    "TUR": {
+     "year": 2022,
+     "value": "Fully",
+     "num": null
+    },
+    "ARE": {
+     "year": 2022,
+     "value": "Partially",
+     "num": null
+    },
+    "ESP": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "USA": {
+     "year": 2022,
+     "value": "Partially",
+     "num": null
+    },
+    "CAN": {
+     "year": 2022,
+     "value": "Partially",
+     "num": null
+    },
+    "AUS": {
+     "year": 2022,
+     "value": "Partially",
+     "num": null
+    },
+    "NGA": {
+     "year": 2022,
+     "value": "Partially",
+     "num": null
+    },
+    "GBR": {
+     "year": 2022,
+     "value": "Fully",
+     "num": null
+    },
+    "ITA": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "SWE": {
+     "year": 2022,
+     "value": "Partially",
+     "num": null
+    },
+    "NOR": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "IDN": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "KOR": {
+     "year": 2022,
+     "value": "Partially",
+     "num": null
+    },
+    "ZAF": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "RUS": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "MEX": {
+     "year": 2022,
+     "value": "Partially",
+     "num": null
+    },
+    "DNK": {
+     "year": 2022,
+     "value": "Partially",
+     "num": null
+    },
+    "DEU": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "PRT": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "FRA": {
+     "year": 2022,
+     "value": "Partially",
+     "num": null
+    },
+    "POL": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "PAK": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "CHE": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "BRA": {
+     "year": 2022,
+     "value": "Fully",
+     "num": null
+    },
+    "AUT": {
+     "year": 2022,
+     "value": "Partially",
+     "num": null
+    },
+    "VNM": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "NLD": {
+     "year": 2022,
+     "value": "Partially",
+     "num": null
+    },
+    "IND": {
+     "year": 2022,
+     "value": "Fully",
+     "num": null
+    }
+   }
+  },
+  "E1_nat_tv_radio": {
+   "key": "ad_tv_radio",
+   "desc": "TV·라디오 담배광고 금지",
+   "by_country": {
+    "ZAF": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "VNM": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "BRA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ITA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "EGY": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NLD": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "TUR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NOR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "CHE": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "AUS": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "DNK": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "USA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NZL": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "PAK": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "FRA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "IDN": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "AUT": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "POL": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "IND": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "SWE": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "GBR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "DEU": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "PRT": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NGA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "CAN": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "MEX": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "KOR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ARE": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "JPN": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "RUS": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ESP": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    }
+   }
+  },
+  "E5_billboards": {
+   "key": "ad_billboard",
+   "desc": "옥외·빌보드 담배광고 금지",
+   "by_country": {
+    "AUS": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "GBR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ESP": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NOR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "DEU": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "KOR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "SWE": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "PAK": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ZAF": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "USA": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "NZL": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "JPN": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "MEX": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "IND": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "PRT": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "DNK": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "EGY": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NLD": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "POL": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "RUS": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ARE": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "AUT": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "TUR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "CAN": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ITA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "IDN": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "BRA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NGA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "CHE": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "FRA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "VNM": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    }
+   }
+  },
+  "E6_pt_of_sale": {
+   "key": "ad_pos",
+   "desc": "판매점 내 담배광고 금지",
+   "by_country": {
+    "SWE": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "JPN": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "ITA": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "ZAF": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "CAN": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "RUS": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "PRT": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "NOR": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "KOR": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "USA": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "NZL": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "POL": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "ESP": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "BRA": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "EGY": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "IDN": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "AUT": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "NLD": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "PAK": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "DNK": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "NGA": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "DEU": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "GBR": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "ARE": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "MEX": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "TUR": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "CHE": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "AUS": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "FRA": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "VNM": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "IND": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    }
+   }
+  },
+  "E7_internet": {
+   "key": "ad_internet",
+   "desc": "인터넷 담배광고 금지",
+   "by_country": {
+    "NLD": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "DEU": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "CAN": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "USA": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "DNK": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "CHE": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "IND": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "POL": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NGA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "SWE": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ZAF": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "TUR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "MEX": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ESP": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "JPN": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "NOR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "VNM": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ITA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "RUS": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "GBR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "KOR": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "FRA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "AUT": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "IDN": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "PRT": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "BRA": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "ARE": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "NZL": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "PAK": {
+     "year": 2022,
+     "value": "No",
+     "num": null
+    },
+    "AUS": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    },
+    "EGY": {
+     "year": 2022,
+     "value": "Yes",
+     "num": null
+    }
+   }
+  },
+  "E21_vending_machines": {
+   "key": "vending_ban",
+   "desc": "담배 자판기 전면 금지",
+   "by_country": {
+    "JPN": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "BRA": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "IND": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "GBR": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "AUS": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "CHE": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "ARE": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "ITA": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "TUR": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "FRA": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "ZAF": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "NLD": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "DNK": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "KOR": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "DEU": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "NZL": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "VNM": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "USA": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "ESP": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "MEX": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "NOR": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "IDN": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "PAK": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "CAN": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "EGY": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "POL": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "AUT": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "RUS": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "NGA": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "PRT": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "SWE": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    }
+   }
+  },
+  "E25_ban_display_pt_of_sale": {
+   "key": "display_ban",
+   "desc": "판매점 담배 진열 금지",
+   "by_country": {
+    "PAK": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "EGY": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "CHE": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "USA": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "AUT": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "JPN": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "VNM": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "AUS": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "NZL": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "MEX": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "NLD": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "POL": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "BRA": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "DNK": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "ESP": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "IDN": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "GBR": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "FRA": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "ITA": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "SWE": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "IND": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "TUR": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "KOR": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "ZAF": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "ARE": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "NGA": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "PRT": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "DEU": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "RUS": {
+     "year": 2014,
+     "value": "Yes",
+     "num": null
+    },
+    "NOR": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    },
+    "CAN": {
+     "year": 2014,
+     "value": "No",
+     "num": null
+    }
+   }
+  }
+ }
+}

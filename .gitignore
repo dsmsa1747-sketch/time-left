@@ -1,0 +1,5 @@
+tools/dist/
+tools/__pycache__/
+tools/work/gho_indicators.json
+tools/work/factcheck_*.txt
+tools/indexnow-urls.txt

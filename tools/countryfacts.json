@@ -1,0 +1,2488 @@
+{
+ "_meta": {
+  "built": "2026-11-26",
+  "who_fetched": "2026-11-26",
+  "who_note": "rules/tax 값은 WHO GHO 지표 원본. 연도는 각 항목 year 에 있다.",
+  "policy": "확인 못 한 항목은 null — 페이지에서 해당 문장을 만들지 않는다."
+ },
+ "AU": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 8,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 82.5,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "13 7848",
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": false,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": "Partially",
+    "year": 2022
+   },
+   "official_page": null,
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 74.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "NZ": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 8,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 87.5,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "0800 778 778",
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": "Fully",
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://www.healthnz.govt.nz/health-topics/keeping-healthy/smoking-and-vaping",
+    "title": "Health New Zealand - Smoking and vaping"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 82.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://www.healthnz.govt.nz/health-topics/keeping-healthy/smoking-and-vaping",
+    "title": "Health New Zealand - Smoking and vaping",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: smoking, quit, vaping, nicotine"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "GB": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 8,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 65.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "0300 123 1044",
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": false,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": "Fully",
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://www.nhs.uk/better-health/quit-smoking/",
+    "title": "NHS Better Health - Quit Smoking"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 79.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://www.nhs.uk/better-health/quit-smoking/",
+    "title": "NHS Better Health - Quit Smoking",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: tobacco, smoking, smoke-free, quit"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "NO": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 8,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 35.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": null,
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": false,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": false,
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://www.helsenorge.no/snus-og-roykeslutt/",
+    "title": "Helsenorge - Snus- og roykeslutt"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 62.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://www.helsenorge.no/snus-og-roykeslutt/",
+    "title": "Helsenorge - Snus- og roykeslutt",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: quit, røyk, snus"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "FR": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 3,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 65.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "3989",
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": false,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": "Partially",
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://www.santepubliquefrance.fr/tabac",
+    "title": "Sante publique France / Tabac info service"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 83.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://www.santepubliquefrance.fr/tabac",
+    "title": "Sante publique France / Tabac info service",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: tobacco, smoking, quit, tabac"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "CA": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 8,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 75.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "1-866-366-3667",
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": "Partially",
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://www.canada.ca/en/health-canada/services/smoking-tobacco.html",
+    "title": "Health Canada - Smoking and tobacco"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 62.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://www.canada.ca/en/health-canada/services/smoking-tobacco.html",
+    "title": "Health Canada - Smoking and tobacco",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: tobacco, smoking, smoke-free, quit"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "CH": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 0,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 43.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": false,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "0848 000 181",
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": false,
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://www.bag.admin.ch/de",
+    "title": "Swiss Federal Office of Public Health (BAG) - Tabak"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 60.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://www.bag.admin.ch/de",
+    "title": "Swiss Federal Office of Public Health (BAG) - Tabak",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: tabac, tabak, rauch"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "NL": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 8,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 65.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "0800 1995",
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": "Partially",
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/roken",
+    "title": "Rijksoverheid - Roken / Ikstopnu (Trimbos)"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 77.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/roken",
+    "title": "Rijksoverheid - Roken / Ikstopnu (Trimbos)",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: nicotine, tabak, roken"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "DK": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 1,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 65.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": null,
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": "Partially",
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://www.stoplinien.dk/",
+    "title": "Stoplinien / Sundhedsstyrelsen (Danish Health Authority)"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 78.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://www.stoplinien.dk/",
+    "title": "Stoplinien / Sundhedsstyrelsen (Danish Health Authority)",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: smoking, cigarette, nicotine, snus"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "DE": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 0,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 65.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "0800 831 31 31",
+   "quitline_verified_on_official_page": true,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": false,
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://www.rauchfrei-info.de/",
+    "title": "rauchfrei info (BZgA, Bundeszentrale fur gesundheitliche Aufklarung)"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 64.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://www.rauchfrei-info.de/",
+    "title": "rauchfrei info (BZgA, Bundeszentrale fur gesundheitliche Aufklarung)",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: smoking, cigarette, tabak, rauch"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "US": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 1,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": null,
+   "warning_graphic": {
+    "value": false,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": false,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "800-784-8669",
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": "Partially",
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://www.cdc.gov/tobacco/",
+    "title": "CDC - Smoking and Tobacco Use"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 40.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://www.cdc.gov/tobacco/",
+    "title": "CDC - Smoking and Tobacco Use",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: tobacco, smoking, quit, cigarette"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "SE": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 0,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 65.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "020-840000",
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": "Partially",
+    "year": 2022
+   },
+   "official_page": null,
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 68.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "AT": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 4,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 65.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "0800 810 013",
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": "Partially",
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://www.sozialministerium.gv.at/",
+    "title": "gesundheit.gv.at (Oesterreichisches Gesundheitsportal) - Rauchen"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 75.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://www.sozialministerium.gv.at/",
+    "title": "gesundheit.gv.at (Oesterreichisches Gesundheitsportal) - Rauchen",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: tabak, rauch"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "IT": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 0,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 65.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "800-554088",
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": false,
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://www.iss.it/fumo",
+    "title": "Istituto Superiore di Sanita / Ministero della Salute - Fumo"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 77.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://www.iss.it/fumo",
+    "title": "Istituto Superiore di Sanita / Ministero della Salute - Fumo",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: tabac, tabacco, tabagismo, fumo"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "ES": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 8,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 65.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": null,
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": false,
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://www.sanidad.gob.es/areas/promocionPrevencion/tabaco/home.htm",
+    "title": "Ministerio de Sanidad - Tabaco"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 78.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://www.sanidad.gob.es/areas/promocionPrevencion/tabaco/home.htm",
+    "title": "Ministerio de Sanidad - Tabaco",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: tabac, tabaco"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "PT": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 6,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 65.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": null,
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": false,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": false,
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://www.dgs.pt/paginas-de-sistema/saude-de-a-a-z/tabaco.aspx",
+    "title": "Direcao-Geral da Saude - Tabaco"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 79.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://www.dgs.pt/paginas-de-sistema/saude-de-a-a-z/tabaco.aspx",
+    "title": "Direcao-Geral da Saude - Tabaco",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: tobacco, tabac, tabaco, tabagismo"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "AE": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 4,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 50.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": null,
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": "Partially",
+    "year": 2022
+   },
+   "official_page": null,
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 73.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "MX": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 8,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 65.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "01800 911 2000",
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": "Partially",
+    "year": 2022
+   },
+   "official_page": null,
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 68.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "PL": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 3,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 65.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "801 108 108",
+   "quitline_verified_on_official_page": true,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": false,
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://jakrzucicpalenie.pl/",
+    "title": "Ministerstwo Zdrowia / KCPU"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 78.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://jakrzucicpalenie.pl/",
+    "title": "Ministerstwo Zdrowia / KCPU",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: cigarette, palenie, papieros"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "JP": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 4,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 50.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": false,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": false,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": null,
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": false,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": "Partially",
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/tobacco/index.html",
+    "title": "Ministry of Health, Labour and Welfare - Tobacco"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 61.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/tobacco/index.html",
+    "title": "Ministry of Health, Labour and Welfare - Tobacco",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: tobacco, 禁煙, たばこ, tabac"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "KR": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 2,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 50.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "1544-9030",
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": "Partially",
+    "year": 2022
+   },
+   "official_page": null,
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 74.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "ZA": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 0,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 20.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": false,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "011 720 3145",
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": false,
+    "year": 2022
+   },
+   "official_page": null,
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 53.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "BR": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 8,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 65.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "0800 611 997",
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": "Fully",
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://www.gov.br/inca/pt-br/assuntos/gestor-e-profissional-de-saude/programa-nacional-de-controle-do-tabagismo",
+    "title": "INCA - Programa Nacional de Controle do Tabagismo"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 82.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://www.gov.br/inca/pt-br/assuntos/gestor-e-profissional-de-saude/programa-nacional-de-controle-do-tabagismo",
+    "title": "INCA - Programa Nacional de Controle do Tabagismo",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: tabac, tabaco, tabagismo, fumo"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "IN": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 6,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 85.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "1800 112 356",
+   "quitline_verified_on_official_page": true,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": "Fully",
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://ntcp.mohfw.gov.in/",
+    "title": "National Tobacco Control Programme (MoHFW)"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 58.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://ntcp.mohfw.gov.in/",
+    "title": "National Tobacco Control Programme (MoHFW)",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: tobacco, smoking, quit, cigarette"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "PK": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 8,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 60.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": false,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": null,
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": false,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": ". . .",
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": false,
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://www.nhsrc.gov.pk/",
+    "title": "Ministry of National Health Services, Regulations and Coordination"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 61.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://www.nhsrc.gov.pk/",
+    "title": "Ministry of National Health Services, Regulations and Coordination",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: quit"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "NG": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 2,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 50.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": null,
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": false,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": "Partially",
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://health.gov.ng/",
+    "title": "Federal Ministry of Health Nigeria"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 37.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://health.gov.ng/",
+    "title": "Federal Ministry of Health Nigeria",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: roken"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "EG": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 8,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 50.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": null,
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": false,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": "Not applicable",
+    "year": 2022
+   },
+   "official_page": null,
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 79.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "RU": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 8,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 50.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "8-800-200-0-200",
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": false,
+    "year": 2022
+   },
+   "official_page": null,
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 56.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "VN": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 6,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 50.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "18006606",
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": false,
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://vinacosh.gov.vn/vi/",
+    "title": "Vietnam Steering Committee on Smoking and Health (VINACOSH)"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 39.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://vinacosh.gov.vn/vi/",
+    "title": "Vietnam Steering Committee on Smoking and Health (VINACOSH)",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: thuốc lá"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "ID": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 4,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 40.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": false,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": false,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "0800-177-6565",
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": false,
+    "year": 2022
+   },
+   "official_page": null,
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 62.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ },
+ "TR": {
+  "checked": "2026-11-26",
+  "rules": {
+   "smokefree_places": {
+    "value": 8,
+    "of": 8,
+    "year": 2022
+   },
+   "warning_pct": {
+    "value": 93.0,
+    "year": 2022
+   },
+   "warning_graphic": {
+    "value": true,
+    "year": 2022
+   },
+   "plain_pack": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_tv_radio": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_billboard": {
+    "value": true,
+    "year": 2022
+   },
+   "ad_internet": {
+    "value": true,
+    "year": 2022
+   },
+   "age_limit": null,
+   "retail_license": null
+  },
+  "help": {
+   "quitline": "171",
+   "quitline_verified_on_official_page": false,
+   "quitline_who": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_sold": {
+    "value": true,
+    "year": 2022
+   },
+   "nrt_cost_covered": {
+    "value": "Fully",
+    "year": 2022
+   },
+   "official_page": {
+    "url": "https://www.saglik.gov.tr/",
+    "title": "Saglik Bakanligi Halk Sagligi Genel Mudurlugu - Tutun ile Mucadele"
+   },
+   "free_meds": null,
+   "cost_to_user": null,
+   "programs": null
+  },
+  "price_history": [],
+  "tax_share_pct": 85.0,
+  "tax_share_year": 2020,
+  "sources": [
+   {
+    "url": "https://www.saglik.gov.tr/",
+    "title": "Saglik Bakanligi Halk Sagligi Genel Mudurlugu - Tutun ile Mucadele",
+    "fetched": "2026-11-26",
+    "own_country_official": true,
+    "quote": "official page, HTTP 200, tobacco/quit keywords found: sigara"
+   },
+   {
+    "url": "https://ghoapi.azureedge.net/api/W26_plain_packaging_A",
+    "title": "WHO Global Health Observatory - tobacco control indicator API (MPOWER series)",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   },
+   {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "title": "WHO fact sheet - Tobacco",
+    "fetched": "2026-11-26",
+    "quote": "WHO Global Health Observatory indicator values for this country (MPOWER series)."
+   }
+  ]
+ }
+}
