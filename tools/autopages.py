@@ -470,6 +470,9 @@ else:
 
 # ── sitemap.xml 재생성 ──
 BASE = ['index.html', 'timeline.html', 'prices.html', 'quitlines.html', 'about.html', 'privacy.html', 'terms.html']
+# 가이드 허브·가이드 12편도 sitemap 에 들어가야 다음 빌드에서 살아남는다(genguides.py 산출)
+BASE += ['guides.html'] + sorted(f for f in os.listdir('dist')
+                                 if f.startswith('guide-') and f.endswith('.html'))
 today = datetime.date.today().isoformat()
 u = []
 for f in BASE + made:

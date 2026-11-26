@@ -62,6 +62,7 @@ NAV = """<nav class="top">
 <a class="home" href="index.html" data-keep>Time Left</a>
 <a href="timeline.html" data-keep data-l="en">Recovery timeline</a><a href="timeline.html" data-keep data-l="ko" hidden>회복 타임라인</a>
 <a href="prices.html" data-keep data-l="en">Prices worldwide</a><a href="prices.html" data-keep data-l="ko" hidden>나라별 담뱃값</a>
+<a href="guides.html" data-keep data-l="en">Guides</a><a href="guides.html" data-keep data-l="ko" hidden>가이드</a>
 <a href="quitlines.html" data-keep data-l="en">Quitlines</a><a href="quitlines.html" data-keep data-l="ko" hidden>금연상담전화</a>
 <a href="about.html" data-keep data-l="en">About</a><a href="about.html" data-keep data-l="ko" hidden>소개</a>
 <div class="sp"></div>

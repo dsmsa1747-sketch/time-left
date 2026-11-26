@@ -1,0 +1,275 @@
+{
+ "who_tobacco": {
+  "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+  "status": 200,
+  "final": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+  "fetched": "2026-11-26",
+  "title": "Tobacco and nicotine",
+  "len": 14303,
+  "quotes": [
+   "Tobacco kills more than 7 million people each year, including over 1.6 million non-smokers who are exposed to second-hand smoke.",
+   "Overview The tobacco epidemic is one of the biggest public health threats the world has ever faced, responsible for over 7 million deaths annually as well as disability and long-term suffering from tobacco-related diseases (1) .",
+   "More on monitoring tobacco use Global and country-level tobacco use prevalence trends and SDG 3.a.1 monitoring Second-hand smoke kills There is no safe level of exposure to second-hand tobacco smoke.",
+   "Second-hand smoke causes serious cardiovascular and respiratory diseases, including coronary heart disease and lung cancer, and kills more than 1.6 million people prematurely every year (1) ."
+  ]
+ },
+ "who_cessation_qa": {
+  "url": "https://www.who.int/news-room/questions-and-answers/item/tobacco-health-benefits-of-smoking-cessation",
+  "status": 200,
+  "final": "https://www.who.int/news-room/questions-and-answers/item/tobacco-health-benefits-of-smoking-cessation",
+  "fetched": "2026-11-26",
+  "title": "Tobacco: Health benefits of smoking cessation",
+  "len": 6101,
+  "quotes": [
+   "Beneficial health changes that take place: Within 20 minutes, your heart rate and blood pressure drop.",
+   "12 hours, the carbon monoxide level in your blood drops to normal.",
+   "Can people of all ages who have already developed smoking-related health problems still benefit from quitting?",
+   "Benefits in comparison with those who continued: At about 30: gain almost 10 years of life expectancy."
+  ]
+ },
+ "who_tax": {
+  "url": "https://www.who.int/activities/raising-taxes-on-tobacco",
+  "status": 200,
+  "final": "https://www.who.int/activities/raising-taxes-on-tobacco",
+  "fetched": "2026-11-26",
+  "title": "Raising taxes on tobacco",
+  "len": 8064,
+  "quotes": [
+   "Evidence shows that significantly increasing tobacco excise taxes and prices is the single most effective and cost-effective measure for reducing tobacco use.",
+   "Raising taxes on tobacco products which lead to increases in their price makes tobacco less affordable.",
+   "Because youth and low-income groups are more responsive to increases in tobacco prices , they disproportionately enjoy the health and economic benefits of quitting and not starting.",
+   "Saving lives with tobacco taxes lessens the enormous healthcare burden and economic losses that result from tobacco-related disease."
+  ]
+ },
+ "cdc_quit": {
+  "url": "https://www.cdc.gov/tobacco/campaign/tips/quit-smoking/index.html",
+  "status": 200,
+  "final": "https://www.cdc.gov/tobacco/campaign/tips/quit-smoking/index.html",
+  "fetched": "2026-11-26",
+  "title": "How to Quit Smoking | Quit Smoking | Tips From Former Smokers | CDC",
+  "len": 6611,
+  "quotes": [
+   "How to Quit Smoking | Quit Smoking | Tips From Former Smokers | CDC and tags on every page of your site.",
+   "Saving Lives, Protecting People Search Submit Tips From Former Smokers ® How to Quit Smoking Español (Spanish) Print Minus Related Pages It’s never too late to quit smoking.",
+   "Quitting smoking now improves your health and reduces your risk of heart disease, cancer, lung disease, and other smoking-related illnesses.",
+   "How Quitlines Can Help Quitlines provide free coaching over the phone to help you quit smoking."
+  ]
+ },
+ "cdc_benefits": {
+  "url": "https://www.cdc.gov/tobacco/about/benefits-of-quitting.html",
+  "status": 200,
+  "final": "https://www.cdc.gov/tobacco/about/benefits-of-quitting.html",
+  "fetched": "2026-11-26",
+  "title": "Benefits of Quitting Smoking | Smoking and Tobacco Use | CDC",
+  "len": 11756,
+  "quotes": [
+   "Benefits of Quitting Smoking | Smoking and Tobacco Use | CDC Skip directly to site content Skip directly to search An official website of the United States government Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States.",
+   "Benefits of quitting Audio Description Low Resolution Video Health benefits of quitting smoking Quitting smoking is one of the most important actions people can take to improve their health.",
+   "1 Quitting smoking has many health benefits.",
+   "Quitting smoking: 1 Improves health status and enhances quality of life."
+  ]
+ },
+ "cdc_nrt": {
+  "url": "https://www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/index.html",
+  "status": 200,
+  "final": "https://www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/index.html",
+  "fetched": "2026-11-26",
+  "title": "Learn About Quit Smoking Medicines | Quit Smoking | Tips From Former Smokers | CDC",
+  "len": 5568,
+  "quotes": [
+   "Check out these proven approaches Tips for Quitting Ideas you might get from a quit coach Can help with cravings Can help with or without medicines Why Quitting Smoking Is Hard Nicotine and your brain Smoking and your daily routines Quitting Stories What would you do?"
+  ]
+ },
+ "nhs_quit": {
+  "url": "https://www.nhs.uk/better-health/quit-smoking/",
+  "status": 200,
+  "final": "https://www.nhs.uk/better-health/quit-smoking/",
+  "fetched": "2026-11-26",
+  "title": "Quit smoking - Better Health - NHS",
+  "len": 5068,
+  "quotes": [
+   "It's never too late to quit and it's easier to stop smoking with the right support.",
+   "Your quit journey: get support at every stage Whether you’re thinking about quitting, you're ready to quit, or you need help staying smoke free, we’ve got tips and support to help you at every stage.",
+   "Learn how to get through the tough times, stay focused, and quit for good.",
+   "Why quit smoking Learn how quitting smoking can make life better for you and those around you."
+  ]
+ },
+ "nhs_treatments": {
+  "url": "https://www.nhs.uk/conditions/stop-smoking-treatments/",
+  "status": 200,
+  "final": "https://www.nhs.uk/better-health/quit-smoking/ready-to-quit-smoking/find-the-best-stop-smoking-products-for-you/",
+  "fetched": "2026-11-26",
+  "title": "Find the best stop-smoking product for you - Better Health - NHS",
+  "len": 5417,
+  "quotes": [
+   "Nicotine-free medicines Most work by blocking the effects of nicotine in your brain, making smoking less enjoyable.",
+   "You may be able to access nicotine-free medicines from your local Stop Smoking Service or your GP.",
+   "Read more about quitting with nicotine-free medicines .",
+   "Nicotine replacement therapies (NRTs) Nicotine has been safely used in stop-smoking products for years."
+  ]
+ },
+ "nhs_cravings": {
+  "url": "https://www.nhs.uk/live-well/quit-smoking/10-self-help-tips-to-stop-smoking/",
+  "status": 200,
+  "final": "https://www.nhs.uk/better-health/quit-smoking/",
+  "fetched": "2026-11-26",
+  "title": "Quit smoking - Better Health - NHS",
+  "len": 5068,
+  "quotes": [
+   "Find out what can help with cravings and explore expert and community support to keep you on track.",
+   "Staying smoke free Learn how to handle cravings, manage withdrawal symptoms, and get back on track if you slip up.",
+   "I don’t have cravings anymore and will never put a cigarette in my mouth again.",
+   "Stevie I used lozenges to help with cravings."
+  ]
+ },
+ "nhs_pregnancy": {
+  "url": "https://www.nhs.uk/pregnancy/keeping-well/stop-smoking/",
+  "status": 200,
+  "final": "https://www.nhs.uk/pregnancy/keeping-well/stop-smoking/",
+  "fetched": "2026-11-26",
+  "title": "Stop smoking in pregnancy - NHS",
+  "len": 8267,
+  "quotes": [
+   "Every cigarette you smoke contains over 4,000 chemicals, many of which are dangerous, so smoking when you are pregnant harms your unborn baby.",
+   "Cigarettes can restrict the essential oxygen supply to your baby.",
+   "Benefits of stopping smoking in pregnancy Stopping smoking will help both you and your baby immediately.",
+   "For example, they are more likely to have problems keeping warm and are more likely to get infections you will reduce the risk of sudden infant death syndrome (SIDS) , also known as \"cot death\" Stopping smoking now will also help your baby later in life."
+  ]
+ },
+ "ucl_research": {
+  "url": "https://www.ucl.ac.uk/epidemiology-health-care/research/behavioural-science-and-health",
+  "status": 200,
+  "final": "https://www.ucl.ac.uk/population-health-sciences/epidemiology-health-care/research/ucl-research-department-behavioural-science-and-health",
+  "fetched": "2026-11-26",
+  "title": "UCL Research Department of Behavioural Science and Health | Faculty of Population Health Sciences",
+  "len": 3834,
+  "quotes": [
+   "Breadcrumb trail Faculty of Population Health Sciences Research Faculty menu Current page: Behavioural Science and Health About the Department Research People News Resources Contact Us Breadcrumb trail Faculty of Population Health Sciences ...",
+   "(Additional navigation levels omitted.) Institute of Epidemiology and Health Care Research UCL Research Department of Behavioural Science and Health The Research Department of Behavioural Science and Health is dedicated to research on how human behaviour impacts health and health outcomes.",
+   "Our research and teaching reflect our interdisciplinary approach to health and wellbeing, focusing on a broad range of public health issues, such as alcohol and tobacco use, heart disease, cancer, and obesity."
+  ]
+ },
+ "ucl_news_quit": {
+  "url": "https://www.ucl.ac.uk/news/2026/nov/women-middle-age-less-likely-quit-smoking-successfully",
+  "status": 200,
+  "final": "https://www.ucl.ac.uk/news/2026/nov/women-middle-age-less-likely-quit-smoking-successfully",
+  "fetched": "2026-11-26",
+  "title": "Women in middle age less likely to quit smoking successfully | UCL News",
+  "len": 5410,
+  "quotes": [
+   "The researchers found that: Middle aged women, aged 45 to 60, had the lowest quit success (18.1%) compared with younger (22.3%) and older women (20.6%) The lowest quit success was observed among middle-aged women from more deprived backgrounds (15.8% vs.",
+   "“Women in mid-life often face a combination of pressures that can make quitting smoking particularly challenging.",
+   "Women from more disadvantaged backgrounds are also more likely to have higher levels of nicotine dependence, which can make quitting harder.",
+   "“We need to better understand women’s experiences to ensure that stop smoking services are tailored to meet their specific needs."
+  ]
+ },
+ "kr_guide": {
+  "url": "https://www.nosmokeguide.go.kr/",
+  "status": 200,
+  "final": "https://www.nosmokeguide.go.kr/",
+  "fetched": "2026-11-26",
+  "title": "금연길라잡이",
+  "len": 1051,
+  "quotes": [
+   "바로가기 (새 창 열림) 담배의 실체 ~ 이슈 & 팩트 섹션 전체 담배제품과 마케팅 담배 노출 담배 건강위험 통계와 규제정책 금연방법 이슈와 Q&A 00 00 공감마당 공감마당의 제목, 작성자, 작성일자 정보를 제공합니다.",
+   "제목 작성자 작성일자 더보기 NO SMOKE SERVICE 간단한 검사를 통해 알맞는 금연지원 서비스 를 추천 받아보세요 !",
+   "검사시작 (새 창 열림) MULTI MEDIA 멀티미디어 자료실 전체 이미지 광고 · 캠페인 영상 금연공감 더보기 NOTICE 알림 전체 공지사항 금연뉴스 전문가칼럼 보도자료 더보기 노담봇 금연길라잡이 노담봇입니다.",
+   "금연상담 카카오 채널 금연상담전화 카카오 채널을 통해 간편하게 1:1 금연상담 서비스를 받으세요."
+  ]
+ },
+ "kr_ncc": {
+  "url": "https://nosmk.khealth.or.kr/nsk/ntcc/index.do",
+  "status": 200,
+  "final": "https://nosmk.khepi.or.kr:443/nsk/ntcc/index.do",
+  "fetched": "2026-11-26",
+  "title": "금연두드림",
+  "len": 1871,
+  "quotes": [
+   "금연두드림 본문 바로가기 주메뉴 바로가기 현재 사용하시는 인터넷 브라우저 버전이 오래 되었습니다.",
+   "현재 금연두드림은 유아 흡연위해예방사업 , 학교 흡연예방 관련 메뉴 및 자료실만 운영됩니다.",
+   "금연길라잡이 바로가기 하루동안 보지않기 국가금연캠페인 광고 배너 슬라이드 정지 시작 --> 금연서비스 유아 및 학교 흡연 예방 유아와 청소년의 건강을 위한 흡연예방사업입니다.",
+   "--> 보건소 금연클리닉 금연결심부터 성공까지 보건소 금연상담사가 도와드립니다."
+  ]
+ },
+ "jp_mhlw": {
+  "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/tobacco/index.html",
+  "status": 200,
+  "final": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/tobacco/index.html",
+  "fetched": "2026-11-26",
+  "title": "たばこと健康に関する情報ページ ｜厚生労働省",
+  "len": 4444,
+  "quotes": [
+   "--> たばこと健康に関する情報ページ ｜厚生労働省 --> このページではJavaScriptを使用しています。JavaScriptを有効にしてください。"
+  ]
+ },
+ "eu_tobacco": {
+  "url": "https://health.ec.europa.eu/tobacco/overview_en",
+  "status": 200,
+  "final": "https://health.ec.europa.eu/tobacco/overview_en",
+  "fetched": "2026-11-26",
+  "title": "Overview - Public Health - European Commission",
+  "len": 4203,
+  "quotes": [
+   "Policy priorities To address this situation, the European Union and national governments have taken various tobacco control measures in the form of legislation, recommendations and, previously, information campaigns.",
+   "These policy measures include in particular: The regulation of tobacco products (e.g.",
+   "Product regulation Taking into account the significant cross border trade of tobacco products and the risk of diverging national legislation , EU-wide rules are necessary for these products.",
+   "The Tobacco Products Directive has governed the manufacture, display and sale of tobacco and related products since May 2016 ."
+  ]
+ },
+ "ca_tobacco": {
+  "url": "https://www.canada.ca/en/health-canada/services/smoking-tobacco.html",
+  "status": 200,
+  "final": "https://www.canada.ca/en/health-canada/services/smoking-tobacco.html",
+  "fetched": "2026-11-26",
+  "title": "Smoking, vaping and tobacco - Canada.ca",
+  "len": 3011,
+  "quotes": [
+   "Surveys, statistics and research Information on trends and patterns of tobacco and vaping product use and related research activities.",
+   "Regulating tobacco and vaping products Information on the regulation of the manufacturing, sale, labelling and promotion of tobacco and vaping products.",
+   "Canada’s tobacco strategy The current federal strategy to address tobacco use in Canada, designed to help achieve the target of less than 5% tobacco use by 2035.",
+   "Business and industry Information and resources for the tobacco and vaping industry on requirements under the Tobacco and Vaping Products Act, including the Tobacco Charges Regulations ."
+  ]
+ },
+ "who_ecig_qa": {
+  "url": "https://www.who.int/news-room/questions-and-answers/item/tobacco-e-cigarettes",
+  "status": 200,
+  "final": "https://www.who.int/news-room/questions-and-answers/item/tobacco-e-cigarettes",
+  "fetched": "2026-11-26",
+  "title": "Tobacco: E-cigarettes",
+  "len": 14666,
+  "quotes": [
+   "These so-called e-liquids may or may not contain nicotine (but do not contain tobacco).",
+   "E-cigarettes are part of broader products categories of ENDS and ENNDS, which include products such as e-cigars and e-pipes.",
+   "Currently, 88 countries have no minimum age at which e-cigarettes can be bought and 74 countries have no regulations in place for these harmful products.",
+   "E-cigarettes target children through social media and influencers, with at least 16 000 attractive flavours."
+  ]
+ },
+ "cdc_ecig": {
+  "url": "https://www.cdc.gov/tobacco/e-cigarettes/index.html",
+  "status": 200,
+  "final": "https://www.cdc.gov/tobacco/e-cigarettes/index.html",
+  "fetched": "2026-11-26",
+  "title": "E-Cigarettes (Vapes) | Smoking and Tobacco Use | CDC",
+  "len": 6232,
+  "quotes": [
+   "E-Cigarettes (Vapes) | Smoking and Tobacco Use | CDC Skip directly to site content Skip directly to search An official website of the United States government Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States.",
+   "E-cigarettes come in many shapes and sizes.",
+   "Get the facts about e-cigarettes, their health effects, and the risks of vaping.",
+   "The bottom line There are no safe tobacco products, including e-cigarettes."
+  ]
+ },
+ "medlineplus": {
+  "url": "https://medlineplus.gov/quittingsmoking.html",
+  "status": 200,
+  "final": "https://medlineplus.gov/quittingsmoking.html",
+  "fetched": "2026-11-26",
+  "title": "Quitting Smoking: MedlinePlus",
+  "len": 8838,
+  "quotes": [
+   "Quitting Smoking: MedlinePlus Skip navigation An official website of the United States government Here’s how you know Here’s how you know Official websites use .gov A .gov website belongs to an official government organization in the United States.",
+   "Quitting smoking is important for your health.",
+   "Nicotine addiction makes it harder to stop, but quitting smoking can improve the quality and length of your life.",
+   "What are the benefits of quitting smoking?"
+  ]
+ }
+}

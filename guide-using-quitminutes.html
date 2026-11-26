@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>How to read this calculator: inputs, arithmetic, and what it cannot tell you | Time Left</title>
+<meta name="description" content="What the calculator asks for, how money and minutes are derived, where the country data comes from, what is not collected, and the limits of a population average.">
+<meta name="theme-color" content="#F6F3EC">
+<link rel="canonical" href="https://quitminutes.com/guide-using-quitminutes.html">
+<link rel="alternate" hreflang="en" href="https://quitminutes.com/guide-using-quitminutes.html?lang=en">
+<link rel="alternate" hreflang="ko" href="https://quitminutes.com/guide-using-quitminutes.html?lang=ko">
+<link rel="alternate" hreflang="x-default" href="https://quitminutes.com/guide-using-quitminutes.html">
+<link rel="icon" href="favicon-32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Time Left">
+<meta property="og:title" content="How to read this calculator: inputs, arithmetic, and what it cannot tell you | Time Left">
+<meta property="og:description" content="What the calculator asks for, how money and minutes are derived, where the country data comes from, what is not collected, and the limits of a population average.">
+<meta property="og:image" content="https://quitminutes.com/og.png">
+<meta property="og:url" content="https://quitminutes.com/guide-using-quitminutes.html">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@900&display=swap">
+<style>*{box-sizing:border-box}
+html{background:#F6F3EC}
+body{margin:0;background:#F6F3EC;color:#17150F;font-family:"Noto Sans KR",system-ui,-apple-system,sans-serif;font-size:15px;line-height:1.75}
+.w{max-width:760px;margin:0 auto;padding:26px 20px 80px}
+a{color:#7A5A22}
+nav.top{display:flex;flex-wrap:wrap;gap:4px;align-items:center;border-bottom:1px solid #DED7C8;padding-bottom:14px;margin-bottom:26px}
+nav.top a{font-size:12.5px;color:#57503F;text-decoration:none;padding:6px 10px;border-radius:6px}
+nav.top a:hover{background:#EFEAE0;color:#17150F}
+nav.top a.home{font-weight:700;color:#17150F}
+nav.top .sp{flex:1}
+h1{font-family:"Noto Serif KR",serif;font-weight:900;font-size:28px;letter-spacing:-.025em;margin:0 0 8px;line-height:1.3;text-wrap:balance}
+h2{font-family:"Noto Serif KR",serif;font-weight:900;font-size:19px;margin:34px 0 10px;letter-spacing:-.02em}
+h3{font-size:15.5px;font-weight:700;margin:22px 0 6px}
+.sub{color:#57503F;font-size:14px;margin:0 0 4px}
+.upd{color:#8B8270;font-size:11.5px;margin:0 0 28px}
+p,li{color:#3A342C}
+ul,ol{padding-left:20px}
+.tw{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:14px 0}
+table{border-collapse:collapse;width:100%;font-size:13.5px;margin:0;min-width:100%}
+.tw table{min-width:440px}
+th{text-align:left;font-size:11px;letter-spacing:.1em;color:#8B8270;font-weight:600;padding:0 10px 9px 0;border-bottom:1px solid #DED7C8;white-space:nowrap}
+td{padding:9px 10px 9px 0;border-bottom:1px solid #EAE4D6;vertical-align:top}
+th.r,td.r{text-align:right;padding-right:0;font-variant-numeric:tabular-nums;white-space:nowrap}
+tr:hover td{background:#F1ECE1}
+.flag{margin-right:7px}
+.tel{font-weight:700;color:#2C7A56;font-variant-numeric:tabular-nums;white-space:nowrap}
+.tel a{color:inherit;text-decoration:none}
+.box{background:#FFFFFF;border:1px solid #DED7C8;border-radius:10px;padding:16px 18px;margin:20px 0}
+.box p{margin:0;font-size:13.5px}
+.box.warn{background:#FBF3F1;border-color:#E2C4BD}
+.tl{list-style:none;padding:0;margin:18px 0}
+.tl li{display:grid;grid-template-columns:110px 1fr;gap:16px;padding:12px 0;border-bottom:1px solid #EAE4D6}
+.tl .t{font-weight:700;color:#2C7A56;font-variant-numeric:tabular-nums}
+.lang{display:flex;gap:2px;background:#FFFFFF;border:1px solid #DED7C8;border-radius:7px;padding:2px;margin-left:auto}
+.lang button{appearance:none;border:0;background:transparent;cursor:pointer;font-family:inherit;font-size:11.5px;font-weight:600;color:#8B8270;padding:5px 10px;border-radius:5px}
+.lang button[aria-pressed="true"]{background:#EFEAE0;color:#17150F}
+.back{display:inline-block;margin-top:36px;font-size:13.5px;font-weight:700;color:#17150F;text-decoration:none;border-bottom:2px solid #C6BCA8;padding-bottom:2px}
+[hidden]{display:none!important}
+@media(max-width:520px){.tl li{grid-template-columns:1fr;gap:2px}
+ .tw table{font-size:12.5px}
+ th,td{padding-right:8px}
+ h1{font-size:24px}}</style>
+<!--QM-ADS-->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8593643365115736" crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="w">
+<nav class="top">
+<a class="home" href="index.html" data-keep>Time Left</a>
+<a href="timeline.html" data-keep data-l="en">Recovery timeline</a><a href="timeline.html" data-keep data-l="ko" hidden>회복 타임라인</a>
+<a href="prices.html" data-keep data-l="en">Prices worldwide</a><a href="prices.html" data-keep data-l="ko" hidden>나라별 담뱃값</a>
+<a href="guides.html" data-keep data-l="en">Guides</a><a href="guides.html" data-keep data-l="ko" hidden>가이드</a>
+<a href="quitlines.html" data-keep data-l="en">Quitlines</a><a href="quitlines.html" data-keep data-l="ko" hidden>금연상담전화</a>
+<a href="about.html" data-keep data-l="en">About</a><a href="about.html" data-keep data-l="ko" hidden>소개</a>
+<div class="sp"></div>
+<div class="lang" role="group" aria-label="Language">
+<button data-set="en" aria-pressed="true">EN</button><button data-set="ko" aria-pressed="false">한국어</button>
+</div>
+</nav>
+<div data-l="en"><h1>How to read this calculator</h1>
+<p class="sub">Inputs, arithmetic, data sources, and the limits we will not paper over.</p>
+<p class="upd">Last updated 27 September 2026 · sources confirmed 2026-11-26</p>
+
+<p>A number is only useful if you know how it was made. This page documents what the calculator asks for, what
+it does with it, where the country data comes from, and the four things it cannot tell you.</p>
+
+<h2>What it asks for, and why</h2>
+<div class="tw"><table><thead><tr><th>Input</th><th>Why it is needed</th><th>If you are unsure</th></tr></thead><tbody>
+<tr><td>What you actually pay per pack</td><td>National averages are often wrong for an individual; your price is the one that matters</td><td>Use the price from the last pack you bought, not the table</td></tr>
+<tr><td>Cigarettes per day</td><td>Drives both the money and the minutes</td><td>Use a normal week rather than your best week</td></tr>
+<tr><td>When you started</td><td>Turns a daily figure into a cumulative one</td><td>An approximate year is enough; the arithmetic is linear</td></tr>
+</tbody></table></div>
+
+<h2>The arithmetic, in one paragraph</h2>
+<p>Money is your pack price multiplied by the packs implied by your daily count, extended over whatever period
+is being shown. Time is your cigarette count multiplied by an average minutes-per-cigarette estimate; because
+such estimates are published separately for men and women, the site keeps two values and labels which one it
+is using. Where a figure is derived rather than measured — per-cigarette cost, cost per year, minutes per pack
+— it is arithmetic on your inputs, not a survey result. The derivation and its limits are set out in
+<a href="guide-20-minutes-per-cigarette.html" data-keep>where the 20-minute figure comes from</a>.</p>
+
+<h2>Where the country data comes from</h2>
+<ul>
+<li><strong>Pack prices</strong> for 31 countries, used on the <a href="prices.html" data-keep>price table</a> and each country page.</li>
+<li><strong>Quitline numbers</strong> for the countries we have them for, on the <a href="quitlines.html" data-keep>quitlines page</a>.</li>
+<li><strong>Regulatory indicators and tax share</strong> from the WHO Global Health Observatory tobacco indicator series, shown with the reference year on each country page and in the <a href="guide-cigarette-tax-share.html" data-keep>tax share guide</a>.</li>
+<li><strong>Recovery timeline</strong> entries that follow the schedule WHO publishes: heart rate and blood pressure drop within 20 minutes, blood carbon monoxide falls to normal by 12 hours, circulation and lung function improve across 2 to 12 weeks, coughing and shortness of breath decrease over 1 to 9 months.</li>
+</ul>
+
+<h2>What is not collected</h2>
+<p>The calculator runs in your browser. Your price, your count and your start date stay on your device; nothing
+is uploaded, and there is no account to create. That is also why the figures do not follow you between devices
+— the trade-off is deliberate. The site can be installed for offline use, in which case the calculator keeps
+working without a connection.</p>
+
+<h2>Four things it cannot tell you</h2>
+<ul>
+<li><strong>How long you will live.</strong> Minute figures are population averages, not individual predictions.</li>
+<li><strong>What one cigarette did.</strong> Harm accumulates over years of exposure; the per-cigarette figure is an accounting convenience.</li>
+<li><strong>Your clinical risk.</strong> That depends on history, genetics, other exposures and medical facts the calculator never sees.</li>
+<li><strong>Whether you will succeed.</strong> Quit success varies by group and circumstance, and support changes the odds more than resolve does.</li>
+</ul>
+
+<div class="box"><p>Time Left is a calculator, not medical advice, and not a prediction. For personal medical
+questions speak to a clinician. For the hard evenings, a free national quitline exists and is listed on this
+site.</p></div>
+
+<h2>The part of the output worth watching</h2>
+<p>The cumulative figure is more useful than the daily one, for the same reason an odometer is more useful than
+a speedometer when deciding whether to service a car. A daily cost is easy to absorb; ten years of it is the
+number that changes decisions. WHO's framing of the benefit is also cumulative and age-indexed: compared with
+people who continued smoking, quitting at about 30 gains almost 10 years of life expectancy, at about 40 gains
+9 years, at about 50 gains 6 years, and at about 60 gains 3 years.</p>
+
+<h2>How to check we are current</h2>
+<ul>
+<li>Every page carries a last-updated line and, on guides, a source-confirmation date.</li>
+<li>Country pages show the reference year next to WHO indicator values rather than implying they are from today.</li>
+<li>If a figure matters to a decision, open the linked source — every guide lists its sources with the date each was confirmed.</li>
+<li>Where we could not verify something, the page says so instead of filling the gap. The context for why that matters is in WHO's own numbers: tobacco kills more than 7 million people each year, including over 1.6 million non-smokers exposed to second-hand smoke.</li>
+</ul>
+<h2>Common questions</h2><h3>Does the calculator upload my data?</h3><p>No. It runs in your browser, your inputs stay on your device and there is no account to create. The trade-off is that figures do not follow you between devices.</p><h3>Why does it ask what I pay instead of using the national average?</h3><p>Because a national average is often wrong for an individual. The price from the last pack you bought produces a number that matches your own spending, which is the version that affects decisions.</p><h3>Can it predict how long I will live?</h3><p>No. The minute figures are population averages, not individual predictions, and clinical risk depends on history and other factors the calculator never sees. For personal medical questions, speak to a clinician.</p><h2>Related</h2><ul><li><a href="guide-20-minutes-per-cigarette.html" data-keep>Where the 20-minute figure comes from</a></li><li><a href="prices.html" data-keep>Prices in 31 countries</a></li><li><a href="timeline.html" data-keep>The recovery timeline</a></li><li><a href="guide-cigarette-tax-share.html" data-keep>Tax share of the pack price</a></li></ul><h2>Sources</h2><ul><li><a href="https://www.who.int/news-room/questions-and-answers/item/tobacco-health-benefits-of-smoking-cessation" rel="nofollow noopener" target="_blank">Tobacco: Health benefits of smoking cessation</a> — confirmed 2026-11-26</li><li><a href="https://www.who.int/news-room/fact-sheets/detail/tobacco" rel="nofollow noopener" target="_blank">Tobacco and nicotine</a> — confirmed 2026-11-26</li><li><a href="https://www.ucl.ac.uk/epidemiology-health-care/research/behavioural-science-and-health" rel="nofollow noopener" target="_blank">UCL Research Department of Behavioural Science and Health | Faculty of Population Health S</a> — confirmed 2026-11-26</li></ul><div class="box"><p>Time Left is a calculator, not medical advice. For personal medical questions speak to a clinician or your national quitline.</p></div><p><a href="index.html" data-keep><strong>Open the calculator →</strong></a></p><script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "How to read this calculator: inputs, arithmetic, and what it cannot tell you", "description": "What the calculator asks for, how money and minutes are derived, where the country data comes from, what is not collected, and the limits of a population average.", "inLanguage": ["en", "ko"], "mainEntityOfPage": "https://quitminutes.com/guide-using-quitminutes.html", "author": {"@type": "Organization", "name": "Time Left 편집팀"}, "publisher": {"@type": "Organization", "name": "Time Left", "url": "https://quitminutes.com"}, "datePublished": "2026-11-26", "dateModified": "2026-11-26", "citation": [{"@type": "WebPage", "url": "https://www.who.int/news-room/questions-and-answers/item/tobacco-health-benefits-of-smoking-cessation", "name": "Tobacco: Health benefits of smoking cessation"}, {"@type": "WebPage", "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco", "name": "Tobacco and nicotine"}, {"@type": "WebPage", "url": "https://www.ucl.ac.uk/epidemiology-health-care/research/behavioural-science-and-health", "name": "UCL Research Department of Behavioural Science and Health | Faculty of Population Health S"}]}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Does the calculator upload my data?", "acceptedAnswer": {"@type": "Answer", "text": "No. It runs in your browser, your inputs stay on your device and there is no account to create. The trade-off is that figures do not follow you between devices."}}, {"@type": "Question", "name": "Why does it ask what I pay instead of using the national average?", "acceptedAnswer": {"@type": "Answer", "text": "Because a national average is often wrong for an individual. The price from the last pack you bought produces a number that matches your own spending, which is the version that affects decisions."}}, {"@type": "Question", "name": "Can it predict how long I will live?", "acceptedAnswer": {"@type": "Answer", "text": "No. The minute figures are population averages, not individual predictions, and clinical risk depends on history and other factors the calculator never sees. For personal medical questions, speak to a clinician."}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://quitminutes.com/"}, {"@type": "ListItem", "position": 2, "name": "Guides", "item": "https://quitminutes.com/guides.html"}, {"@type": "ListItem", "position": 3, "name": "How to read this calculator: inputs, arithmetic, and what it cannot tell you", "item": "https://quitminutes.com/guide-using-quitminutes.html"}]}]}</script>
+<a class="back" href="index.html" data-keep>← Open the calculator</a></div>
+<div data-l="ko" hidden><h1>이 계산기를 제대로 쓰는 법 — 숫자의 의미와 한계</h1>
+<p class="sub">입력값, 계산 방식, 데이터 출처, 그리고 감추지 않을 한계.</p>
+<p class="upd">최종 업데이트 2026년 9월 27일 · 출처 확인일 2026-11-26</p>
+
+<p>숫자는 어떻게 만들어졌는지를 알 때만 쓸모가 있습니다. 이 페이지는 계산기가 무엇을 묻는지, 그것으로 무엇을
+하는지, 국가 데이터가 어디서 오는지, 그리고 알려줄 수 없는 네 가지를 적어 둡니다.</p>
+
+<h2>무엇을 묻고, 왜 묻는가</h2>
+<div class="tw"><table><thead><tr><th>입력</th><th>왜 필요한가</th><th>모를 때</th></tr></thead><tbody>
+<tr><td>실제로 내는 한 갑 가격</td><td>국가 평균은 개인에게 자주 틀립니다. 중요한 건 내 가격입니다</td><td>표가 아니라 마지막으로 산 한 갑의 가격을 쓰십시오</td></tr>
+<tr><td>하루 흡연량</td><td>돈과 시간 양쪽을 결정합니다</td><td>가장 잘 참은 주가 아니라 평범한 한 주를 기준으로</td></tr>
+<tr><td>시작 시점</td><td>하루 숫자를 누적 숫자로 바꿉니다</td><td>대략의 연도로 충분합니다. 계산은 선형입니다</td></tr>
+</tbody></table></div>
+
+<h2>계산 방식, 한 문단</h2>
+<p>돈은 한 갑 가격에 하루 흡연량이 함의하는 갑 수를 곱하고, 보여주는 기간만큼 늘린 값입니다. 시간은 흡연 개수에
+개비당 평균 분 추정치를 곱한 값입니다. 그런 추정치는 남녀를 나눠 공표되므로, 이 사이트는 두 값을 유지하고 어느
+쪽을 쓰는지 표시합니다. 측정이 아니라 도출된 값(개비당 비용, 연간 비용, 한 갑당 분)은 입력값에 대한 산수이며
+조사 결과가 아닙니다. 도출 과정과 한계는 <a href="guide-20-minutes-per-cigarette.html" data-keep>"20분" 숫자의
+정체</a>에 정리했습니다.</p>
+
+<h2>국가 데이터는 어디서 오는가</h2>
+<ul>
+<li><strong>한 갑 가격</strong> — 31개국. <a href="prices.html" data-keep>담뱃값 표</a>와 각 국가 페이지에서 씁니다.</li>
+<li><strong>금연상담전화 번호</strong> — 확보한 나라에 대해 <a href="quitlines.html" data-keep>상담전화 페이지</a>에 있습니다.</li>
+<li><strong>규제 지표와 세금 비중</strong> — WHO 글로벌 보건 관측소의 담배 지표 시리즈. 각 국가 페이지와 <a href="guide-cigarette-tax-share.html" data-keep>세금 비중 가이드</a>에 기준연도와 함께 표시합니다.</li>
+<li><strong>회복 타임라인</strong> — WHO가 공표한 일정표를 따릅니다. 20분 안에 심박수와 혈압이 내려가고, 12시간이면 혈중 일산화탄소가 정상 수준으로 떨어지고, 2~12주에 혈액순환과 폐 기능이 향상되고, 1~9개월에 기침과 숨가쁨이 줄어듭니다.</li>
+</ul>
+
+<h2>수집하지 않는 것</h2>
+<p>계산기는 브라우저 안에서 돕니다. 가격, 흡연량, 시작일은 사용자 기기에 남고 아무것도 업로드되지 않으며 만들
+계정도 없습니다. 그래서 기기를 옮기면 숫자가 따라오지 않습니다. 의도한 교환입니다. 오프라인 사용을 위해 설치할
+수 있고, 그 경우 연결 없이도 계산기가 작동합니다.</p>
+
+<h2>알려줄 수 없는 네 가지</h2>
+<ul>
+<li><strong>얼마나 살지.</strong> 분 단위 수치는 인구 평균이며 개인에 대한 예측이 아닙니다.</li>
+<li><strong>한 개비가 무엇을 했는지.</strong> 피해는 수년의 노출로 누적됩니다. 개비당 수치는 회계적 편의값입니다.</li>
+<li><strong>임상적 위험.</strong> 병력·유전·다른 노출 등 계산기가 전혀 보지 못하는 사실에 달려 있습니다.</li>
+<li><strong>성공할지 여부.</strong> 금연 성공률은 집단과 상황에 따라 다르고, 결심보다 지원이 확률을 더 많이 바꿉니다.</li>
+</ul>
+
+<div class="box"><p>Time Left는 계산기이며 의학적 조언도, 예측도 아닙니다. 개인의 건강 문제는 의료진과 상의
+하십시오. 힘든 저녁에는 무료 국가 금연상담전화가 있고, 이 사이트에 목록이 있습니다.</p></div>
+
+<h2>출력에서 지켜볼 부분</h2>
+<p>누적 숫자가 하루 숫자보다 쓸모 있습니다. 차를 정비할지 결정할 때 속도계보다 주행거리계가 쓸모 있는 것과 같은
+이유입니다. 하루 비용은 쉽게 흡수되지만, 그것의 10년치가 결정을 바꾸는 숫자입니다. WHO가 이득을 제시하는 방식도
+누적이고 연령별입니다. 계속 피운 사람과 비교해 30세 무렵 금연하면 약 10년, 40세 9년, 50세 6년, 60세 3년의
+기대수명을 얻습니다.</p>
+
+<h2>최신인지 확인하는 방법</h2>
+<ul>
+<li>모든 페이지에 최종 업데이트 줄이 있고, 가이드에는 출처 확인일이 있습니다</li>
+<li>국가 페이지는 WHO 지표 값 옆에 기준연도를 표시합니다. 오늘 수치인 척하지 않습니다</li>
+<li>결정에 영향을 주는 수치라면 링크된 출처를 직접 열어 보십시오. 모든 가이드는 출처와 각 확인일을 함께 적습니다</li>
+<li>확인하지 못한 것은 빈칸을 채우지 않고 그렇다고 적습니다. 그것이 중요한 이유는 WHO의 숫자에 있습니다 — 담배는 매년 700만 명 이상을 사망에 이르게 하고, 그중 간접흡연에 노출된 비흡연자가 160만 명을 넘습니다</li>
+</ul>
+<h2>자주 묻는 질문</h2><h3>계산기가 내 데이터를 업로드하나요?</h3><p>아닙니다. 브라우저 안에서 돌고, 입력값은 사용자 기기에 남으며 만들 계정도 없습니다. 교환 조건은 기기를 옮기면 숫자가 따라오지 않는다는 점입니다.</p><h3>국가 평균 대신 왜 제가 내는 가격을 묻나요?</h3><p>국가 평균은 개인에게 자주 틀리기 때문입니다. 마지막으로 산 한 갑의 가격을 쓰면 내 실제 지출과 맞는 숫자가 나오고, 결정에 영향을 주는 쪽은 그 숫자입니다.</p><h3>제 수명을 예측할 수 있나요?</h3><p>아닙니다. 분 단위 수치는 인구 평균이며 개인 예측이 아닙니다. 임상적 위험은 병력 등 계산기가 보지 못하는 요인에 달려 있습니다. 개인의 건강 문제는 의료진과 상의하십시오.</p><h2>관련 글</h2><ul><li><a href="guide-20-minutes-per-cigarette.html" data-keep>&quot;20분&quot; 숫자의 정체</a></li><li><a href="prices.html" data-keep>31개국 담뱃값 비교</a></li><li><a href="timeline.html" data-keep>회복 타임라인</a></li><li><a href="guide-cigarette-tax-share.html" data-keep>담뱃값 세금 비중</a></li></ul><h2>출처</h2><ul><li><a href="https://www.who.int/news-room/questions-and-answers/item/tobacco-health-benefits-of-smoking-cessation" rel="nofollow noopener" target="_blank">Tobacco: Health benefits of smoking cessation</a> — 확인일 2026-11-26</li><li><a href="https://www.who.int/news-room/fact-sheets/detail/tobacco" rel="nofollow noopener" target="_blank">Tobacco and nicotine</a> — 확인일 2026-11-26</li><li><a href="https://www.ucl.ac.uk/epidemiology-health-care/research/behavioural-science-and-health" rel="nofollow noopener" target="_blank">UCL Research Department of Behavioural Science and Health | Faculty of Population Health S</a> — 확인일 2026-11-26</li></ul><div class="box"><p>이 사이트는 계산기이며 의학적 조언이 아닙니다. 개인의 건강 문제는 의료진 또는 금연상담전화에 문의하십시오.</p></div><p><a href="index.html" data-keep><strong>계산기 열기 →</strong></a></p>
+<a class="back" href="index.html" data-keep>← 계산기 열기</a></div>
+</div>
+<script>(function(){
+  var L=(navigator.language||"en").toLowerCase().indexOf("ko")===0?"ko":"en";
+  try{var q=new URLSearchParams(location.search).get("lang");if(q==="ko"||q==="en")L=q;}catch(e){}
+  function set(l){L=l;document.documentElement.lang=l;
+    document.querySelectorAll("[data-l]").forEach(function(e){e.hidden=e.getAttribute("data-l")!==l;});
+    document.querySelectorAll(".lang button").forEach(function(b){b.setAttribute("aria-pressed",String(b.dataset.set===l));});
+    document.querySelectorAll("a[data-keep]").forEach(function(a){
+      try{var u=new URL(a.href,location.href);u.searchParams.set("lang",l);a.href=u.pathname+u.search;}catch(e){}});
+  }
+  document.querySelectorAll(".lang button").forEach(function(b){b.onclick=function(){set(b.dataset.set);};});
+  set(L);
+})();</script>
+</body>
+</html>
